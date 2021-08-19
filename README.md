@@ -115,7 +115,9 @@
 
 ### Videos
 
+* [Learning Functional Programming with JavaScript JSUnconf by Anjana Vakil](https://www.youtube.com/watch?v=e-5obm1G_FY&t=505s)
 * [Becoming a better developer by using the SOLID design principles by Katerina Trajchevska](https://www.youtube.com/watch?v=rtmFCcjEgEw)
+
 
 ### Websites
 
