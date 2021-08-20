@@ -115,9 +115,7 @@
 
 ### Videos
 
-* [Learning Functional Programming with JavaScript JSUnconf by Anjana Vakil](https://www.youtube.com/watch?v=e-5obm1G_FY&t=505s)
 * [Becoming a better developer by using the SOLID design principles by Katerina Trajchevska](https://www.youtube.com/watch?v=rtmFCcjEgEw)
-
 
 ### Websites
 
@@ -143,6 +141,28 @@
 
 * [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
 * [Kevin Powell](https://www.youtube.com/user/KepowOb)
+* [codeSTACKr](https://www.youtube.com/channel/UCDCHcqyeQgJ-jVSd6VJkbCw)
+* [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
+* [DesignCourse](https://www.youtube.com/user/DesignCourse)
+* [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
+* [Wes Bos](https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA)
+* [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+* [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
+* [Coder Coder](https://www.youtube.com/c/TheCoderCoder)
+* [Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ)
+* [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
+* [Dorian Develops](https://www.youtube.com/channel/UCUOMtzQmEmhIAF8G_cha_Xw)
+* [Adrian Twarog](https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ)
+* [Ben Awad](https://www.youtube.com/channel/UC-8QAzbLcRglXeN_MY9blyw)
+* [Kenny Gunderman](https://www.youtube.com/channel/UCkCJ0zLrSg7VudR97g-FNVQ)
+* [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)
+* [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA)
+* [Program With Erik](https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw)
+* [Devslopes](https://www.youtube.com/channel/UClLXKYEEM8OBBx85DOa6-cg)
+* [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+* [CS50](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
+* [JSConf](https://www.youtube.com/c/JSConfEU)
+
 
 # Other Resources
 
