@@ -7,13 +7,54 @@
 ### Colors
 
 * [Hex Colors](https://hexcolor.co/)
+* [Canva Colors](https://www.canva.com/colors/)
+* [contrast ratio](https://contrast-ratio.com/)
+* [Adobe Color](https://color.adobe.com/create/color-wheel)
+* [Name that Color](https://chir.ag/projects/name-that-color/#9AB4D0)
+* [Accessible Brand Colors](https://abc.useallfive.com/)
+* [Flat UI Colors](https://flatuicolors.com/)
+* [Coolors Palette Creator](https://coolors.co/006e90-f18f01-adcad6-99c24d-41bbd9)
+* [mycolor Palette Creator](https://mycolor.space/)
+
+### Fonts
+
+* [Google Fonts](https://fonts.google.com/)
+* [Font Flipper](https://fontflipper.com/upload)
+* [Font Squirrel](https://www.fontsquirrel.com/tools/webfont-generator)
+* [Online Font Converter](https://onlinefontconverter.com/)
+* [fonts in the wild.](https://www.fontsinthewild.com/)
+* [webfontloader](https://github.com/typekit/webfontloader)
+
+### Graident
+
+* [uiGradients](https://uigradients.com/#Dull)
+* [CSS Gradient](https://cssgradient.io/)
+* [gradient-designer](https://gradient-designer.csspost.com/)
+* [Mesh Gradient](https://meshgradient.com/)
+
+### Icons
+
+* [flaticon](https://www.flaticon.com/)
+* [Material Icons](https://fonts.google.com/icons)
+* [icones (icon sets)](https://icones.netlify.app/)
+* [Tabler Icons](https://tablericons.com/)
+* [iconmonstr](https://iconmonstr.com/)
+* [IcoMoon](https://icomoon.io/)
+* [heroicons](https://heroicons.dev/)
+* [Bootstrap Icons](https://icons.getbootstrap.com/)
+* [Font Awesome](https://fontawesome.com/)
+* [Simlpe Icons](https://simpleicons.org/)
+* [Icon Finder](https://www.iconfinder.com/) 
+
+### Tools for Responsive Design
+
+* [MY DEVICE.io](https://www.mydevice.io/)
+
 
 ### Typography
 
 * [Typography 101 - Web Design For Beginners by Dev Ed](https://www.youtube.com/watch?v=HnpsOtIcfbo&feature=emb_title)
 * [The Fastest Google Fonts by CSS Wizardry](https://csswizardry.com/2020/05/the-fastest-google-fonts/)
-
-
 
 ### Websites
 
@@ -23,8 +64,6 @@
 ### Youtube Channels
 
 * [DesignCourse](https://www.youtube.com/user/DesignCourse)
-
-###
 
 <hr>
 
@@ -51,6 +90,13 @@
 
 * [Front-End Checklist by David Dias](https://github.com/thedaviddias/Front-End-Checklist)
 * [Checklist by The A11y Project](https://www.a11yproject.com/checklist/)
+
+### Validation
+
+* [Can I use?](https://caniuse.com/)
+* [Browser Default Styles](https://browserdefaultstyles.com/)
+* [W3C Markup Validation Service](https://validator.w3.org/)
+
 
 ### Websites
 
@@ -137,6 +183,13 @@
 
 * [DevDocs](https://devdocs.io/)
 
+# Code Formatters
+
+* [Prettier](https://prettier.io/)
+* [dirtyMarkup](https://www.10bestdesign.com/dirtymarkup/)
+* [awesome-code-formatters](https://github.com/rishirdua/awesome-code-formatters)
+
+
 # Youtube Channels
 
 * [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
@@ -176,6 +229,7 @@
 * [Best Design Resources for Developers by Suhail Kakar](https://blog.suhailkakar.com/best-design-resources-for-developers)
 * [Rico's cheatsheet](https://devhints.io/)
 * [OverAPI - Collecting All Cheat Sheets](https://overapi.com/)
+
 
 # Books
 
