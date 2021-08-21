@@ -46,6 +46,12 @@
 * [Simlpe Icons](https://simpleicons.org/)
 * [Icon Finder](https://www.iconfinder.com/) 
 
+### Stock Photos
+
+* [Unsplash](https://unsplash.com/)
+* [Pexels](https://www.pexels.com/)
+* [Pixabay](https://pixabay.com/)
+
 ### Tools for Responsive Design
 
 * [MY DEVICE.io](https://www.mydevice.io/)
@@ -131,6 +137,12 @@
 * [Css Layout](https://csslayout.io/)
 * [SmolCSS](https://smolcss.dev/)
 
+### Games
+
+* [CSSBattle](https://cssbattle.dev/)
+* [Coding Fantasy](https://codingfantasy.com/)
+
+
 ### Videos
 
 * [Sass Tutorial for Beginners - CSS With Superpowers by codeSTACKr](https://www.youtube.com/watch?v=_a5j7KoflTs)
@@ -172,25 +184,57 @@
 
 # React
 
+### Roadmaps
+
+* [React advanced education](https://www.mindmeister.com/1982032240?t=INxEXrxj1w)
+
 <hr>
 
-# Blogs
+# Other Resources
+
+### Algorithm Challenges
+
+* [CodeWars](https://www.codewars.com)
+* [HackerRank](https://www.hackerrank.com)
+* [coderbyte](https://coderbyte.com/)
+* [exercism.io](https://exercism.io)
+* [AlgoExpert](https://www.algoexpert.io)
+
+### Blogs
 
 * [Flavio Copes](https://flaviocopes.com/)
 * [Una Kravets](https://una.im/)
 
-# Documentations
+### Books
 
-* [DevDocs](https://devdocs.io/)
+* [Frontend Masters Books](https://frontendmasters.com/books/)
 
-# Code Formatters
+### Code Formatters
 
 * [Prettier](https://prettier.io/)
 * [dirtyMarkup](https://www.10bestdesign.com/dirtymarkup/)
 * [awesome-code-formatters](https://github.com/rishirdua/awesome-code-formatters)
 
+### Documentations
 
-# Youtube Channels
+* [DevDocs](https://devdocs.io/)
+
+### Front-End Challenges
+ 
+* [Frontend Mentor.io](https://www.frontendmentor.io)
+* [DevProjects by codementor.io](https://www.codementor.io/projects)
+
+### Roadmaps
+
+* [Step by step guide to becoming a modern frontend developer by roadmap.sh](https://roadmap.sh/frontend)
+* [The Front-End Developer Learning Roadmap by FrontendMasters](https://frontendmasters.com/guides/learning-roadmap/)
+
+### Online Curriculums
+
+* [freeCodeCamp](https://www.freecodecamp.org/)
+* [The Odin Project](https://www.theodinproject.com)
+
+### Youtube Channels
 
 * [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
 * [Kevin Powell](https://www.youtube.com/user/KepowOb)
@@ -217,7 +261,7 @@
 * [JSConf](https://www.youtube.com/c/JSConfEU)
 
 
-# Other Resources
+### Mixed Content
 
 * [Awesome Free Developer Resources by codeSTACKr](https://github.com/codeSTACKr/free-developer-resources)
 * [Design Resources by Brad Traversy & Csaba Kissi](https://designresources.dev/)
@@ -231,6 +275,4 @@
 * [OverAPI - Collecting All Cheat Sheets](https://overapi.com/)
 
 
-# Books
 
-* [Frontend Masters Books](https://frontendmasters.com/books/)
