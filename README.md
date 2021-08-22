@@ -156,7 +156,7 @@
 * [Css CheatSheet](https://htmlcheatsheet.com/css/)
 * [State of CSS](https://2020.stateofcss.com/en-US/)
 * [Sass cheatsheet](https://devhints.io/sass)
-
+* [Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.](https://github.com/Famolus/awesome-sass)
 
 <hr>
 
@@ -218,6 +218,7 @@
 ### Documentations
 
 * [DevDocs](https://devdocs.io/)
+* [sass-lang](https://sass-lang.com)
 
 ### Front-End Challenges
  
