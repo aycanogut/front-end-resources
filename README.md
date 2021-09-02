@@ -91,6 +91,7 @@
 ### Accesibility 
 
 * [A Complete Guide To Accessible Front-End Components by Vitaly Friedman](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components)
+* [The Importance Of Manual Accessibility Testing](https://www.smashingmagazine.com/2018/09/importance-manual-accessibility-testing/)
 
 ### Checklist
 
@@ -165,6 +166,8 @@
 ### Articles
 
 * [Building the DOM faster: speculative parsing, async, defer and preload by Milica Mihajlija](https://hacks.mozilla.org/2017/09/building-the-dom-faster-speculative-parsing-async-defer-and-preload/)
+* [How to create a dark theme system in 5 minutes or less with vanilla JS. ](https://dev.to/codedgar/how-to-create-a-dark-theme-system-in-5-minutes-or-less-with-vanilla-js-2922)
+
 
 ### Books
 
@@ -200,8 +203,13 @@
 * [exercism.io](https://exercism.io)
 * [AlgoExpert](https://www.algoexpert.io)
 
+### Articles
+
+* [Smashing Magazine - Guides to Web Design and Development ](https://www.smashingmagazine.com/guides/)
+
 ### Blogs
 
+* [DEV Community](dev.to)
 * [Flavio Copes](https://flaviocopes.com/)
 * [Una Kravets](https://una.im/)
 
@@ -234,6 +242,11 @@
 
 * [freeCodeCamp](https://www.freecodecamp.org/)
 * [The Odin Project](https://www.theodinproject.com)
+
+### Tools
+
+* [daily.dev browser extension](https://daily.dev/)
+* [carbon](https://carbon.now.sh/)
 
 ### Youtube Channels
 
