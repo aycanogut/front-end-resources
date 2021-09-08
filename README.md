@@ -121,6 +121,7 @@
 * [The Options for Programmatically Documenting CSS by Kaloyan Kosev](https://css-tricks.com/options-programmatically-documenting-css)
 * [Structuring your SASS projects](https://itnext.io/structuring-your-sass-projects-c8d41fa55ed4)
 * [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+* [14 CSS Topics You Must Know ](https://dev.to/ageekdev/14-css-topics-you-must-know-2e0g)
 
 ### Architectures, Methodologies
 
@@ -165,6 +166,8 @@
 ### Articles
 
 * [Building the DOM faster: speculative parsing, async, defer and preload by Milica Mihajlija](https://hacks.mozilla.org/2017/09/building-the-dom-faster-speculative-parsing-async-defer-and-preload/)
+* [The Ultimate Tutorial on JavaScript DOM - JS DOM with Examples ](https://dev.to/ubahthebuilder/the-ultimate-tutorial-on-javascript-dom-js-dom-with-examples-1b47)
+* [Learn map(), filter(), reduce(), and sort() in JavaScript ](https://dev.to/ashutoshmishra4/some-advanced-and-important-array-methods-in-javascript-day-4-of-javascript30-2ao3)
 
 ### Books
 
@@ -183,6 +186,10 @@
 <hr>
 
 # React
+
+### Articles
+
+* [How to learn React - The Effective way ](https://dev.to/shaan_alam/how-to-learn-react-the-effective-way-2km7)
 
 ### Roadmaps
 
