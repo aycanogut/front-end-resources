@@ -139,12 +139,6 @@
 * [Css Layout](https://csslayout.io/)
 * [SmolCSS](https://smolcss.dev/)
 
-### Games
-
-* [CSSBattle](https://cssbattle.dev/)
-* [Coding Fantasy](https://codingfantasy.com/)
-
-
 ### Videos
 
 * [Sass Tutorial for Beginners - CSS With Superpowers by codeSTACKr](https://www.youtube.com/watch?v=_a5j7KoflTs)
@@ -209,6 +203,8 @@
 * [coderbyte](https://coderbyte.com/)
 * [exercism.io](https://exercism.io)
 * [AlgoExpert](https://www.algoexpert.io)
+* [HackerEarth Codemonk](https://www.hackerearth.com/practice/codemonk/)
+* [LeetCode](https://leetcode.com/)
 
 ### Articles
 
@@ -239,6 +235,45 @@
  
 * [Frontend Mentor.io](https://www.frontendmentor.io)
 * [DevProjects by codementor.io](https://www.codementor.io/projects)
+
+### Interactive Games
+
+* [Flex Box Adventure](https://codingfantasy.com/games/flexboxadventure)
+* [Knights of the Flexbox Table](https://knightsoftheflexboxtable.com/)
+* [Flexbox Zombies](https://geddski.teachable.com/p/flexbox-zombies)
+* [Flexbox Froggy](https://flexboxfroggy.com/)
+* [Flexbox Defense](http://www.flexboxdefense.com/)
+* [Flexy Boxes](https://the-echoplex.net/flexyboxes/)
+* [CSS Grid Garden](https://cssgridgarden.com/)
+* [CSS Grid Cheat Sheet](https://alialaa.github.io/css-grid-cheat-sheet/)
+* [CSS Grid Attack](https://codingfantasy.com/games/css-grid-attack)
+* [CSS Grid Critters ](https://gridcritters.com/)
+* [CSS Selectors Cheatsheet](https://frontend30.com/css-selectors-cheatsheet/)
+* [CSS Animations](https://css-animations.io/)
+* [CSS Rules](https://katydecorah.com/css-ruler/)
+* [CSS Filter Blend](https://ilyashubin.github.io/FilterBlend/)
+* [CSS Battle](https://cssbattle.dev/)
+* [CSS Diner](https://flukeout.github.io/)
+* [TypeScript Exercises](https://typescript-exercises.github.io/)
+* [React Tutorial](https://react-tutorial.app/)
+* [Elevator Saga - JavaScript](https://play.elevatorsaga.com/)
+* [Screeps - JavaScript](https://screeps.com/)
+* [Untrusted - JavaScript](https://alexnisnevich.github.io/untrusted/)
+* [PromiSEES - Javascript](https://bevacqua.github.io/promisees/)
+* [JSchallenger](https://www.jschallenger.com/)
+* [JSRobot](https://lab.reaal.me/jsrobot/)
+* [Service Workies (PWAs)](https://serviceworkies.com/)
+* [Learn Git Branching](https://learngitbranching.js.org/)
+* [Select Star SQL](https://selectstarsql.com/)
+* [SQL Police Department](https://sqlpd.com/)
+* [SQLBolt](https://sqlbolt.com/)
+* [Regex Crossword](https://regexcrossword.com/)
+* [Regex101](https://regex101.com/)
+* [RegexOne](https://regexone.com/)
+* [CodinGame](https://www.codingame.com/start)
+* [OpenVim](https://www.openvim.com/)
+* [Jamstack Attack](https://jamstack-attack.herokuapp.com/)
+
 
 ### Roadmaps
 
