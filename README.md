@@ -215,6 +215,7 @@
 * [DEV Community](dev.to)
 * [Flavio Copes](https://flaviocopes.com/)
 * [Una Kravets](https://una.im/)
+* [Silvestar Bistrović](https://www.silvestar.codes/articles/)
 
 ### Books
 
@@ -333,6 +334,7 @@
 * [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg)
 * [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA)
 * [Program With Erik](https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw)
+* [Codevolution](https://www.youtube.com/c/Codevolution/featured)
 * [Devslopes](https://www.youtube.com/channel/UClLXKYEEM8OBBx85DOa6-cg)
 * [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 * [CS50](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
