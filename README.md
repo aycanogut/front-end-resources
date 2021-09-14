@@ -167,6 +167,9 @@
 * [Git from Beginner to Advanced by MadeByMike](https://www.madebymike.com.au/writing/how-to-git/)
 * [Advanced Git Tutorials by Bitbucket](https://www.atlassian.com/git/tutorials/advanced-overview)
 * [Little Things I Like to Do with Git](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/)
+
+<hr>
+
 # Javascript
 
 ### Articles
