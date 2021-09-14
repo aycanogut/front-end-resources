@@ -103,11 +103,14 @@
 * [Can I use?](https://caniuse.com/)
 * [Browser Default Styles](https://browserdefaultstyles.com/)
 * [W3C Markup Validation Service](https://validator.w3.org/)
+* [What the tag ?!](https://whatthetag.com/#/)
+* [Can Include](https://caninclude.glitch.me/)
 
 
 ### Websites
 
 * [HTML CheatSheet](https://htmlcheatsheet.com/)
+
 
 <hr>
 
@@ -156,6 +159,14 @@
 
 <hr>
 
+# Git
+
+### Websites
+
+* [Dangit, Git!?!](https://dangitgit.com/)
+* [Git from Beginner to Advanced by MadeByMike](https://www.madebymike.com.au/writing/how-to-git/)
+* [Advanced Git Tutorials by Bitbucket](https://www.atlassian.com/git/tutorials/advanced-overview)
+* [Little Things I Like to Do with Git](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/)
 # Javascript
 
 ### Articles
@@ -179,6 +190,7 @@
 
 * [Free Javascript Resources](https://www.java5cript.com/)
 * [Javascript CheatSheet](https://htmlcheatsheet.com/js/)
+* [SheCodes Javascript Cheatsheet](https://www.frontendcheatsheets.com/javascript)
 
 <hr>
 
@@ -352,6 +364,7 @@
 * [Front End Interview Handbook by Yangshun Tay](https://frontendinterviewhandbook.com/)
 * [Best Design Resources for Developers by Suhail Kakar](https://blog.suhailkakar.com/best-design-resources-for-developers)
 * [Rico's cheatsheet](https://devhints.io/)
+* [codecademy Web Development Cheatsheet](https://www.codecademy.com/resources/cheatsheets/subject/web-development)
 * [OverAPI - Collecting All Cheat Sheets](https://overapi.com/)
 
 
