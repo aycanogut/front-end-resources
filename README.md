@@ -370,6 +370,7 @@
 * [Front End Interview Handbook by Yangshun Tay](https://frontendinterviewhandbook.com/)
 * [Best Design Resources for Developers by Suhail Kakar](https://blog.suhailkakar.com/best-design-resources-for-developers)
 * [Rico's cheatsheet](https://devhints.io/)
+* [cult. by Honeypot](https://cult.honeypot.io/)
 * [codecademy Web Development Cheatsheet](https://www.codecademy.com/resources/cheatsheets/subject/web-development)
 * [OverAPI - Collecting All Cheat Sheets](https://overapi.com/)
 
