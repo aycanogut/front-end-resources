@@ -205,6 +205,12 @@
 * [Free Javascript Resources](https://www.java5cript.com/)
 * [Javascript CheatSheet](https://htmlcheatsheet.com/js/)
 * [SheCodes Javascript Cheatsheet](https://www.frontendcheatsheets.com/javascript)
+* [JavaScript For Cats](http://jsforcats.com/)
+* [Javascript.info](https://javascript.info/)
+* [Learn Javascript Online](https://learnjavascript.online/)
+* [LEARN JS](https://www.learn-js.org/)
+* [egghead.io - Javascript](https://egghead.io/q/javascript)
+* [codecademy - Learn Javascript](https://www.codecademy.com/learn/introduction-to-javascript)
 
 <hr>
 
