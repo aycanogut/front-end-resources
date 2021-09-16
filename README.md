@@ -24,6 +24,7 @@
 * [Online Font Converter](https://onlinefontconverter.com/)
 * [fonts in the wild.](https://www.fontsinthewild.com/)
 * [webfontloader](https://github.com/typekit/webfontloader)
+* [BEfonts](https://befonts.com/)
 
 ### Graident
 
@@ -45,8 +46,10 @@
 * [Font Awesome](https://fontawesome.com/)
 * [Simlpe Icons](https://simpleicons.org/)
 * [Icon Finder](https://www.iconfinder.com/) 
+* [700+ CSS Icons](https://css.gg/)
+* [Streamline](https://streamlinehq.com/)
 
-### Stock Photos
+### Stock Photos, Illustrations
 
 * [Unsplash](https://unsplash.com/)
 * [Pexels](https://www.pexels.com/)
@@ -66,6 +69,11 @@
 
 * [Laws of UX](https://lawsofux.com/)
 * [Ux Tools](https://uxtools.co/)
+* [ls.graphics, Mockups and UI toolsl](https://www.ls.graphics/)
+* [Design Resources](https://www.designresourc.es/)
+* [UI Design Daily](https://www.uidesigndaily.com/)
+* [Daily Handpicked Free UI Kits for Your Projects](https://uifreebies.net/)
+
 
 ### Youtube Channels
 
