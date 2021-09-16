@@ -81,25 +81,18 @@
 
 <hr>
 
-# HTTPS
-
-### Articles
-
-* [How Web Works by Vasa](https://github.com/vasanthk/how-web-works)
-
-### Websites
-
-* [How HTTPS works](https://howhttps.works/)
-
-<hr>
-
-
 # HTML
 
 ### Accesibility 
 
 * [A Complete Guide To Accessible Front-End Components by Vitaly Friedman](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components)
 * [The Importance Of Manual Accessibility Testing](https://www.smashingmagazine.com/2018/09/importance-manual-accessibility-testing/)
+
+### Articles 
+
+* [How Web Works by Vasa](https://github.com/vasanthk/how-web-works)
+* [How HTTPS works](https://howhttps.works/)
+
 
 ### Checklist
 
