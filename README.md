@@ -54,6 +54,7 @@
 * [Unsplash](https://unsplash.com/)
 * [Pexels](https://www.pexels.com/)
 * [Pixabay](https://pixabay.com/)
+* [Doodle Ipsum](https://doodleipsum.com/)
 
 ### Tools for Responsive Design
 
