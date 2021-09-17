@@ -195,6 +195,7 @@
 
 ### Websites
 
+* [Just Javascript - Dan Abramov](https://justjavascript.com/)
 * [Free Javascript Resources](https://www.java5cript.com/)
 * [Javascript CheatSheet](https://htmlcheatsheet.com/js/)
 * [SheCodes Javascript Cheatsheet](https://www.frontendcheatsheets.com/javascript)
@@ -238,6 +239,8 @@
 ### Blogs
 
 * [DEV Community](dev.to)
+* [Dav Abramov Medium](https://medium.com/@dan_abramov)
+* [Overreacted - Dav Abramov Blog](https://overreacted.io/)
 * [Flavio Copes](https://flaviocopes.com/)
 * [Una Kravets](https://una.im/)
 * [Silvestar Bistrović](https://www.silvestar.codes/articles/)
