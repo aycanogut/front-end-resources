@@ -353,6 +353,7 @@
 * [Wes Bos](https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA)
 * [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 * [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
+* [Adam Argyle](https://www.youtube.com/c/AdamArgyleInk)
 * [Coder Coder](https://www.youtube.com/c/TheCoderCoder)
 * [Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ)
 * [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
