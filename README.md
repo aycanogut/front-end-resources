@@ -6,6 +6,7 @@
 
 ### Colors
 
+* [coloors](https://coolors.co)
 * [Hex Colors](https://hexcolor.co/)
 * [Canva Colors](https://www.canva.com/colors/)
 * [contrast ratio](https://contrast-ratio.com/)
@@ -214,6 +215,7 @@
 ### Articles
 
 * [How to learn React - The Effective way ](https://dev.to/shaan_alam/how-to-learn-react-the-effective-way-2km7)
+* [5 Packages Every React Developer Must Know](https://javascript.plainenglish.io/5-packages-every-react-developer-must-know-e06bf1b96514)
 
 ### Roadmaps
 
