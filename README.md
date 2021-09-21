@@ -76,11 +76,6 @@
 * [UI Design Daily](https://www.uidesigndaily.com/)
 * [Daily Handpicked Free UI Kits for Your Projects](https://uifreebies.net/)
 
-
-### Youtube Channels
-
-* [DesignCourse](https://www.youtube.com/user/DesignCourse)
-
 <hr>
 
 # HTML
@@ -375,6 +370,8 @@
 
 ### Mixed Content
 
+* [web.dev](https://web.dev/)
+* [30 Seconds of Code](https://www.30secondsofcode.org/)
 * [Awesome Free Developer Resources by codeSTACKr](https://github.com/codeSTACKr/free-developer-resources)
 * [Design Resources by Brad Traversy & Csaba Kissi](https://designresources.dev/)
 * [Front End Web Development Resources by Ritik Patni](https://github.com/RitikPatni/Front-End-Web-Development-Resources)
