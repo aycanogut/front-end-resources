@@ -242,6 +242,7 @@
 * [Flavio Copes](https://flaviocopes.com/)
 * [Una Kravets](https://una.im/)
 * [Silvestar Bistrović](https://www.silvestar.codes/articles/)
+* [Zell Liew](https://zellwk.com/blog/)
 
 ### Books
 
