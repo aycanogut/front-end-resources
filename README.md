@@ -176,7 +176,7 @@
 * [The Ultimate Tutorial on JavaScript DOM - JS DOM with Examples ](https://dev.to/ubahthebuilder/the-ultimate-tutorial-on-javascript-dom-js-dom-with-examples-1b47)
 * [Learn map(), filter(), reduce(), and sort() in JavaScript ](https://dev.to/ashutoshmishra4/some-advanced-and-important-array-methods-in-javascript-day-4-of-javascript30-2ao3)
 * [How to create a dark theme system in 5 minutes or less with vanilla JS. ](https://dev.to/codedgar/how-to-create-a-dark-theme-system-in-5-minutes-or-less-with-vanilla-js-2922)
-
+* [ES6 Handbook](https://devdojo.com/shreya/es6-handbook)
 
 ### Books
 
