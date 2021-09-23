@@ -89,6 +89,7 @@
 
 * [How Web Works by Vasa](https://github.com/vasanthk/how-web-works)
 * [How HTTPS works](https://howhttps.works/)
+* [7 useful HTML attributes you may not know ](https://dev.to/simonpaix/7-useful-html-attributes-you-may-not-know-7mn)
 
 
 ### Checklist
