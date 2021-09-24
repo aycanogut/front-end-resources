@@ -148,6 +148,8 @@
 
 ### Websites
 
+* [css-tricks](https://css-tricks.com/)
+* [cssauthor](https://cssauthor.com/)
 * [Modern Css Solutions by Stephanie Eckles](https://moderncss.dev/)
 * [Style Stage by Stephanie Eckles](https://stylestage.dev/)
 * [Every Layout by Heydon Pickering & Andy Bell](https://every-layout.dev/)
@@ -374,6 +376,7 @@
 ### Mixed Content
 
 * [web.dev](https://web.dev/)
+* [tutorialzine](https://tutorialzine.com/)
 * [30 Seconds of Code](https://www.30secondsofcode.org/)
 * [Awesome Free Developer Resources by codeSTACKr](https://github.com/codeSTACKr/free-developer-resources)
 * [Design Resources by Brad Traversy & Csaba Kissi](https://designresources.dev/)
@@ -387,6 +390,7 @@
 * [cult. by Honeypot](https://cult.honeypot.io/)
 * [codecademy Web Development Cheatsheet](https://www.codecademy.com/resources/cheatsheets/subject/web-development)
 * [OverAPI - Collecting All Cheat Sheets](https://overapi.com/)
+* [codrops](https://tympanus.net/codrops/)
 
 
 
