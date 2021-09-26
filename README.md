@@ -27,8 +27,9 @@
 * [webfontloader](https://github.com/typekit/webfontloader)
 * [BEfonts](https://befonts.com/)
 
-### Graident
+### Generator, Graidents
 
+* [CSS Separator Generator](https://wweb.dev/resources/css-separator-generator/)
 * [uiGradients](https://uigradients.com/#Dull)
 * [CSS Gradient](https://cssgradient.io/)
 * [gradient-designer](https://gradient-designer.csspost.com/)
@@ -175,12 +176,13 @@
 # Javascript
 
 ### Articles
-
+* [Javascript in Plain English - New JavaScript content every day](https://javascript.plainenglish.io/)
 * [Building the DOM faster: speculative parsing, async, defer and preload by Milica Mihajlija](https://hacks.mozilla.org/2017/09/building-the-dom-faster-speculative-parsing-async-defer-and-preload/)
 * [The Ultimate Tutorial on JavaScript DOM - JS DOM with Examples ](https://dev.to/ubahthebuilder/the-ultimate-tutorial-on-javascript-dom-js-dom-with-examples-1b47)
 * [Learn map(), filter(), reduce(), and sort() in JavaScript ](https://dev.to/ashutoshmishra4/some-advanced-and-important-array-methods-in-javascript-day-4-of-javascript30-2ao3)
 * [How to create a dark theme system in 5 minutes or less with vanilla JS. ](https://dev.to/codedgar/how-to-create-a-dark-theme-system-in-5-minutes-or-less-with-vanilla-js-2922)
 * [ES6 Handbook](https://devdojo.com/shreya/es6-handbook)
+* [Introduction to Promises and Async and Await Promises in Javascript! ✨](https://saharanitaa.hashnode.dev/introduction-to-promises-and-async-and-await-promises-in-javascript)
 
 ### Books
 
@@ -215,6 +217,9 @@
 
 * [How to learn React - The Effective way ](https://dev.to/shaan_alam/how-to-learn-react-the-effective-way-2km7)
 * [5 Packages Every React Developer Must Know](https://javascript.plainenglish.io/5-packages-every-react-developer-must-know-e06bf1b96514)
+* [Ultimate ReactJS Resources 🛠For Web Developers 2021👨‍💻 ](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)
+* [React — 5 Things That Might Surprise You](https://medium.com/geekculture/react-5-things-that-might-surprise-you-ddefd9fbac0f)
+* [Implementing Atomic Design in Modern React Develo](https://charuka95.medium.com/implementing-atomic-design-in-modern-react-development-d58d743a0f0b)
 
 ### Roadmaps
 
@@ -247,6 +252,7 @@
 * [Una Kravets](https://una.im/)
 * [Silvestar Bistrović](https://www.silvestar.codes/articles/)
 * [Zell Liew](https://zellwk.com/blog/)
+* [Kyle Cook (Web Dev Simplified)](https://blog.webdevsimplified.com/)
 
 ### Books
 
