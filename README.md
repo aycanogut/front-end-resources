@@ -189,6 +189,10 @@
 * [You Don't Know Javascript by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS)
 * [Eloquent Javascript by Marijn Haverbeke](https://eloquentjavascript.net/)
 
+### CSS in JS
+
+* [Styled Components](https://styled-components.com)
+* [Stitches] (https://stitches.dev/)
 ### Roadmaps
 * [How to Learn Javsascript 2021](https://cult.honeypot.io/reads/how-to-learn-javascript-2021/)
 
