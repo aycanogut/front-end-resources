@@ -1,3 +1,5 @@
+# Table of contents
+
 - [Design](#Design)
   - [Articles](#Articles)
   - [Colors](#Colors)
@@ -9,10 +11,44 @@
   - [Typography](#Typography)
   - [Websites](#Websites)
 - [HTML](#HTML)
+  - [Accessibility](#Accessibility)
+  - [Articles](#Articles)
+  - [Checklist](#Checklist)
+  - [Validation](#Validation)
+  - [Websites](#Websites)
 - [CSS](#CSS)
+  - [Articles](#Articles)
+  - [Architectures, Methodologies](#Architectures,&#32;Methodologies)
+  - [CSS in JS](#CSS&#32;in&#32;JS)
+  - [Design Systems](#Design&#32;Systems)
+  - [Videos](#Videos)
+  - [Websites](#Websites)
+- [Git](#Git)
+  - [Websites](#Websites)
 - [JavaScript](#JavasScript)
+  - [Articles](#Articles)
+  - [Books](#Books)
+  - [Roadmaps](#Roadmaps)
+  - [Videos](#Videos)
+  - [Websites](#Websites)
 - [React](#React)
-- [Other](#Other)
+  - [Articles](#Articles)
+  - [Roadmaps](#Roadmaps)
+- [Other Content](#Other&#32;Content)
+  - [Algorithm Challenges]()
+  - [Articles](#Articles)
+  - [Blogs](#Blogs)
+  - [Books](#Books)
+  - [Code Formatters](#Code&#32;Formatters)
+  - [Documentations](#Documentations)
+  - [Front-End Challenges](#Front-End&#32;Challenges)
+  - [Interactive Games](#Interactive&#32;Games)
+  - [Reddit Subreddits](#Reddit&#32;Subreddits)
+  - [Roadmaps](#Roadmaps)
+  - [Online Curriculums](#Online&#32;Curriculums)
+  - [Tools](#Tools)
+  - [Youtube Channels](#Youtube&#32;Channels)
+  - [Mixed Content](#Mixed&#32;Content)
 
 
 
@@ -99,7 +135,7 @@
 
 # HTML
 
-### Accesibility 
+### Accessibility 
 
 * [A Complete Guide To Accessible Front-End Components by Vitaly Friedman](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components)
 * [The Importance Of Manual Accessibility Testing](https://www.smashingmagazine.com/2018/09/importance-manual-accessibility-testing/)
@@ -157,6 +193,10 @@
 * [BEM Cheat Sheet](https://9elements.com/bem-cheat-sheet)
 * [Organizing Your CSS / SCSS Code](https://portalzine.de/dev/css/sass/organizing-your-css-scss-code/)
 
+### CSS in JS
+
+* [Styled Components](https://styled-components.com)
+* [Stitches](https://stitches.dev/)
 ### Design Systems
 
 * [Css Layout](https://csslayout.io/)
@@ -209,13 +249,6 @@
 * [You Don't Know Javascript by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS)
 * [Eloquent Javascript by Marijn Haverbeke](https://eloquentjavascript.net/)
 
-### CSS in JS
-
-* [Styled Components](https://styled-components.com)
-* [Stitches] (https://stitches.dev/)
-### Roadmaps
-* [How to Learn Javsascript 2021](https://cult.honeypot.io/reads/how-to-learn-javascript-2021/)
-
 ### Videos
 
 * [Becoming a better developer by using the SOLID design principles by Katerina Trajchevska](https://www.youtube.com/watch?v=rtmFCcjEgEw)
@@ -245,13 +278,10 @@
 * [React — 5 Things That Might Surprise You](https://medium.com/geekculture/react-5-things-that-might-surprise-you-ddefd9fbac0f)
 * [Implementing Atomic Design in Modern React Develo](https://charuka95.medium.com/implementing-atomic-design-in-modern-react-development-d58d743a0f0b)
 
-### Roadmaps
-
-* [React advanced education](https://www.mindmeister.com/1982032240?t=INxEXrxj1w)
 
 <hr>
 
-# Other
+# Other Content
 
 ### Algorithm Challenges
 
@@ -364,7 +394,8 @@
 
 * [Step by step guide to becoming a modern frontend developer by roadmap.sh](https://roadmap.sh/frontend)
 * [The Front-End Developer Learning Roadmap by FrontendMasters](https://frontendmasters.com/guides/learning-roadmap/)
-
+* [How to Learn Javsascript 2021](https://cult.honeypot.io/reads/how-to-learn-javascript-2021/)
+* [React advanced education](https://www.mindmeister.com/1982032240?t=INxEXrxj1w)
 ### Online Curriculums
 
 * [freeCodeCamp](https://www.freecodecamp.org/)
