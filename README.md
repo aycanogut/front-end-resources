@@ -4,10 +4,10 @@
   - [Articles](#Articles)
   - [Colors](#Colors)
   - [Fonts](#Fonts)
-  - [Generators & Graidents](#Generators&#32&&#32Graidents)
+  - [Generators-Graidents](#Generators-Graidents)
   - [Icons](#Icons)
-  - [Stock Photos & Illustrations](#Stock&#32Photos&#32&&#32Illustrations)
-  - [Tools for Responsive Design](#Tools&#32;for&#32;Responsive&#32;Design)
+  - [Stock Photos-Illustrations](#Stock-Photos-&-Illustrations)
+  - [Tools-for-Responsive Design](#Tools-for-Responsive-Design)
   - [Typography](#Typography)
   - [Websites](#Websites)
 - [HTML](#HTML)
@@ -19,8 +19,8 @@
 - [CSS](#CSS)
   - [Articles](#Articles)
   - [Architectures-Methodologies](#Architectures-Methodologies)
-  - [CSS in JS](#CSS&#32;in&#32;JS)
-  - [Design Systems](#Design&#32;Systems)
+  - [CSS-in-JS](#CSS-in-JS)
+  - [Design-Systems](#Design-Systems)
   - [Videos](#Videos)
   - [Websites](#Websites)
 - [Git](#Git)
@@ -34,21 +34,21 @@
 - [React](#React)
   - [Articles](#Articles)
   - [Roadmaps](#Roadmaps)
-- [Other Content](#Other&#32;Content)
-  - [Algorithm Challenges]()
+- [Other-Content](#Other-Content)
+  - [Algorithm-Challenges](#Algorithm-Challenges)
   - [Articles](#Articles)
   - [Blogs](#Blogs)
   - [Books](#Books)
-  - [Code Formatters](#Code&#32;Formatters)
+  - [Code-Formatters](#Code-Formatters)
   - [Documentations](#Documentations)
-  - [Front-End Challenges](#Front-End&#32;Challenges)
-  - [Interactive Games](#Interactive&#32;Games)
-  - [Reddit Subreddits](#Reddit&#32;Subreddits)
+  - [Front-End-Challenges](#Front-End-Challenges)
+  - [Interactive Games](#Interactive-Games)
+  - [Reddit-Subreddits](#Reddit-Subreddits)
   - [Roadmaps](#Roadmaps)
-  - [Online Curriculums](#Online&#32;Curriculums)
+  - [Online-Curriculums](#Online-Curriculums)
   - [Tools](#Tools)
-  - [Youtube Channels](#Youtube&#32;Channels)
-  - [Mixed Content](#Mixed&#32;Content)
+  - [Youtube-Channels](#Youtube-Channels)
+  - [Mixed-Content](#Mixed-Content)
 
 
 
@@ -81,7 +81,7 @@
 * [webfontloader](https://github.com/typekit/webfontloader)
 * [BEfonts](https://befonts.com/)
 
-### Generators & Graidents
+### Generators-Graidents
 
 * [CSS Separator Generator](https://wweb.dev/resources/css-separator-generator/)
 * [uiGradients](https://uigradients.com/#Dull)
@@ -105,14 +105,14 @@
 * [700+ CSS Icons](https://css.gg/)
 * [Streamline](https://streamlinehq.com/)
 
-### Stock Photos & Illustrations
+### Stock Photos-Illustrations
 
 * [Unsplash](https://unsplash.com/)
 * [Pexels](https://www.pexels.com/)
 * [Pixabay](https://pixabay.com/)
 * [Doodle Ipsum](https://doodleipsum.com/)
 
-### Tools for Responsive Design
+### Tools-for-Responsive-Design
 
 * [MY DEVICE.io](https://www.mydevice.io/)
 
@@ -193,11 +193,11 @@
 * [BEM Cheat Sheet](https://9elements.com/bem-cheat-sheet)
 * [Organizing Your CSS / SCSS Code](https://portalzine.de/dev/css/sass/organizing-your-css-scss-code/)
 
-### CSS in JS
+### CSS-in-JS
 
 * [Styled Components](https://styled-components.com)
 * [Stitches](https://stitches.dev/)
-### Design Systems
+### Design-Systems
 
 * [Css Layout](https://csslayout.io/)
 * [SmolCSS](https://smolcss.dev/)
@@ -281,9 +281,9 @@
 
 <hr>
 
-# Other Content
+# Other-Content
 
-### Algorithm Challenges
+### Algorithm-Challenges
 
 * [CodeWars](https://www.codewars.com)
 * [HackerRank](https://www.hackerrank.com)
@@ -313,7 +313,7 @@
 
 * [Frontend Masters Books](https://frontendmasters.com/books/)
 
-### Code Formatters
+### Code-Formatters
 
 * [Prettier](https://prettier.io/)
 * [dirtyMarkup](https://www.10bestdesign.com/dirtymarkup/)
@@ -324,12 +324,12 @@
 * [DevDocs](https://devdocs.io/)
 * [sass-lang](https://sass-lang.com)
 
-### Front-End Challenges
+### Front-End-Challenges
  
 * [Frontend Mentor.io](https://www.frontendmentor.io)
 * [DevProjects by codementor.io](https://www.codementor.io/projects)
 
-### Interactive Games
+### Interactive-Games
 
 * [Flex Box Adventure](https://codingfantasy.com/games/flexboxadventure)
 * [Knights of the Flexbox Table](https://knightsoftheflexboxtable.com/)
@@ -367,7 +367,7 @@
 * [OpenVim](https://www.openvim.com/)
 * [Jamstack Attack](https://jamstack-attack.herokuapp.com/)
 
-### Reddit Subreddits
+### Reddit-Subreddits
 
 * [freeCodeCamp.org: Learn to Code for Free From Home](https://www.reddit.com/r/FreeCodeCamp/)
 * [programming](https://www.reddit.com/r/programming/)
@@ -396,7 +396,7 @@
 * [The Front-End Developer Learning Roadmap by FrontendMasters](https://frontendmasters.com/guides/learning-roadmap/)
 * [How to Learn Javsascript 2021](https://cult.honeypot.io/reads/how-to-learn-javascript-2021/)
 * [React advanced education](https://www.mindmeister.com/1982032240?t=INxEXrxj1w)
-### Online Curriculums
+### Online-Curriculums
 
 * [freeCodeCamp](https://www.freecodecamp.org/)
 * [The Odin Project](https://www.theodinproject.com)
@@ -406,7 +406,7 @@
 * [daily.dev browser extension](https://daily.dev/)
 * [carbon](https://carbon.now.sh/)
 
-### Youtube Channels
+### Youtube-Channels
 
 * [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
 * [Kevin Powell](https://www.youtube.com/user/KepowOb)
@@ -435,7 +435,7 @@
 * [JSConf](https://www.youtube.com/c/JSConfEU)
 
 
-### Mixed Content
+### Mixed-Content
 
 * [web.dev](https://web.dev/)
 * [tutorialzine](https://tutorialzine.com/)
