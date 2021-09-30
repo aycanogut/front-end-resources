@@ -1,3 +1,21 @@
+- [Design](#Design)
+  - [Articles](#Articles)
+  - [Colors](#Colors)
+  - [Fonts](#Fonts)
+  - [Generators & Graidents](#Generators&#32&&#32Graidents)
+  - [Icons](#Icons)
+  - [Stock Photos & Illustrations](#Stock&#32Photos&#32&&#32Illustrations)
+  - [Tools for Responsive Design](#Tools&#32;for&#32;Responsive&#32;Design)
+  - [Typography](#Typography)
+  - [Websites](#Websites)
+- [HTML](#HTML)
+- [CSS](#CSS)
+- [JavaScript](#JavasScript)
+- [React](#React)
+- [Other](#Other)
+
+
+
 # Design
 
 ### Articles 
@@ -27,7 +45,7 @@
 * [webfontloader](https://github.com/typekit/webfontloader)
 * [BEfonts](https://befonts.com/)
 
-### Generator, Graidents
+### Generators & Graidents
 
 * [CSS Separator Generator](https://wweb.dev/resources/css-separator-generator/)
 * [uiGradients](https://uigradients.com/#Dull)
@@ -51,7 +69,7 @@
 * [700+ CSS Icons](https://css.gg/)
 * [Streamline](https://streamlinehq.com/)
 
-### Stock Photos, Illustrations
+### Stock Photos & Illustrations
 
 * [Unsplash](https://unsplash.com/)
 * [Pexels](https://www.pexels.com/)
@@ -102,10 +120,10 @@
 ### Validation
 
 * [Can I use?](https://caniuse.com/)
+* [Can Include](https://caninclude.glitch.me/)
 * [Browser Default Styles](https://browserdefaultstyles.com/)
 * [W3C Markup Validation Service](https://validator.w3.org/)
 * [What the tag ?!](https://whatthetag.com/#/)
-* [Can Include](https://caninclude.glitch.me/)
 
 
 ### Websites
@@ -127,6 +145,7 @@
 * [Structuring your SASS projects](https://itnext.io/structuring-your-sass-projects-c8d41fa55ed4)
 * [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 * [14 CSS Topics You Must Know ](https://dev.to/ageekdev/14-css-topics-you-must-know-2e0g)
+* [Simplifying Form Styles With `accent-color`](https://www.smashingmagazine.com/2021/09/simplifying-form-styles-accent-color/)
 
 ### Architectures, Methodologies
 
@@ -150,6 +169,7 @@
 ### Websites
 
 * [css-tricks](https://css-tricks.com/)
+* [cssreference.io](https://cssreference.io/)
 * [cssauthor](https://cssauthor.com/)
 * [Modern Css Solutions by Stephanie Eckles](https://moderncss.dev/)
 * [Style Stage by Stephanie Eckles](https://stylestage.dev/)
@@ -173,7 +193,7 @@
 
 <hr>
 
-# Javascript
+# JavaScript
 
 ### Articles
 * [Javascript in Plain English - New JavaScript content every day](https://javascript.plainenglish.io/)
@@ -231,7 +251,7 @@
 
 <hr>
 
-# Other Resources
+# Other
 
 ### Algorithm Challenges
 
@@ -250,6 +270,7 @@
 ### Blogs
 
 * [DEV Community](dev.to)
+* [alligator.io](https://alligator.io/)
 * [Dav Abramov Medium](https://medium.com/@dan_abramov)
 * [Overreacted - Dav Abramov Blog](https://overreacted.io/)
 * [Flavio Copes](https://flaviocopes.com/)
