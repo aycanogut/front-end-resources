@@ -18,7 +18,7 @@
   - [Websites](#Websites)
 - [CSS](#CSS)
   - [Articles](#Articles)
-  - [Architectures, Methodologies](#Architectures,&#32;Methodologies)
+  - [Architectures / Methodologies](#Architectures&#32;/&#32;Methodologies)
   - [CSS in JS](#CSS&#32;in&#32;JS)
   - [Design Systems](#Design&#32;Systems)
   - [Videos](#Videos)
