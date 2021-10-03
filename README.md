@@ -252,6 +252,7 @@
 ### Videos
 
 * [Becoming a better developer by using the SOLID design principles by Katerina Trajchevska](https://www.youtube.com/watch?v=rtmFCcjEgEw)
+* [The myth of the “Real JavaScript Developer” by Brenna O'Brien](https://www.youtube.com/watch?v=Xt5qpbiqw2g)
 
 ### Websites
 
