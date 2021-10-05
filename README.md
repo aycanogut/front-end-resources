@@ -243,17 +243,24 @@
 * [How to create a dark theme system in 5 minutes or less with vanilla JS. ](https://dev.to/codedgar/how-to-create-a-dark-theme-system-in-5-minutes-or-less-with-vanilla-js-2922)
 * [ES6 Handbook](https://devdojo.com/shreya/es6-handbook)
 * [Introduction to Promises and Async and Await Promises in Javascript! ✨](https://saharanitaa.hashnode.dev/introduction-to-promises-and-async-and-await-promises-in-javascript)
+* [How I built a modern website in 2021](https://kentcdodds.com/blog/how-i-built-a-modern-website-in-2021)
+
 
 ### Books
 
 * [You Don't Know Javascript by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS)
 * [Eloquent Javascript by Marijn Haverbeke](https://eloquentjavascript.net/)
 
+### Courses
+
+* [Introduction to How to Write an Open Source JavaScript Library - egghead](https://egghead.io/lessons/javascript-introduction-to-how-to-write-an-open-source-javascript-library)
+* [Learn Modern Javascript - scrimba](https://scrimba.com/learn/es6)
+* [Learn JavaScript for free - scrimba](https://scrimba.com/learn/learnjavascript)
+
 ### Videos
 
 * [Becoming a better developer by using the SOLID design principles by Katerina Trajchevska](https://www.youtube.com/watch?v=rtmFCcjEgEw)
 * [The myth of the “Real JavaScript Developer” by Brenna O'Brien](https://www.youtube.com/watch?v=Xt5qpbiqw2g)
-
 ### Websites
 
 * [Just Javascript - Dan Abramov](https://justjavascript.com/)
@@ -300,10 +307,11 @@
 
 ### Blogs
 
-* [DEV Community](dev.to)
-* [alligator.io](https://alligator.io/)
 * [Dav Abramov Medium](https://medium.com/@dan_abramov)
 * [Overreacted - Dav Abramov Blog](https://overreacted.io/)
+* [Kent C. Dodds Blog](https://kentcdodds.com/blog)
+* [DEV Community](dev.to)
+* [alligator.io](https://alligator.io/)
 * [Flavio Copes](https://flaviocopes.com/)
 * [Una Kravets](https://una.im/)
 * [Silvestar Bistrović](https://www.silvestar.codes/articles/)
@@ -454,6 +462,5 @@
 * [codecademy Web Development Cheatsheet](https://www.codecademy.com/resources/cheatsheets/subject/web-development)
 * [OverAPI - Collecting All Cheat Sheets](https://overapi.com/)
 * [codrops](https://tympanus.net/codrops/)
-
 
 
