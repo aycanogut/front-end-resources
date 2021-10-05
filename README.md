@@ -183,7 +183,7 @@
 * [14 CSS Topics You Must Know ](https://dev.to/ageekdev/14-css-topics-you-must-know-2e0g)
 * [Simplifying Form Styles With `accent-color`](https://www.smashingmagazine.com/2021/09/simplifying-form-styles-accent-color/)
 
-### Architectures, Methodologies
+### Architectures-Methodologies
 
 * [Sass Guidelines by Kiltty Giraudel](https://sass-guidelin.es/)
 * [Scalable and Modular Architecture for CSS by Jonathan Snook](http://smacss.com/)
@@ -276,7 +276,7 @@
 * [5 Packages Every React Developer Must Know](https://javascript.plainenglish.io/5-packages-every-react-developer-must-know-e06bf1b96514)
 * [Ultimate ReactJS Resources 🛠For Web Developers 2021👨‍💻 ](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)
 * [React — 5 Things That Might Surprise You](https://medium.com/geekculture/react-5-things-that-might-surprise-you-ddefd9fbac0f)
-* [Implementing Atomic Design in Modern React Develo](https://charuka95.medium.com/implementing-atomic-design-in-modern-react-development-d58d743a0f0b)
+* [Implementing Atomic Design in Modern React Development](https://charuka95.medium.com/implementing-atomic-design-in-modern-react-development-d58d743a0f0b)
 
 
 <hr>
