@@ -376,6 +376,15 @@
 * [OpenVim](https://www.openvim.com/)
 * [Jamstack Attack](https://jamstack-attack.herokuapp.com/)
 
+### Interviews Questions
+
+* [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+* [mission-peace interview](https://github.com/mission-peace/interview)
+* [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+* [React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)
+* [123 Essential JavaScript Interview Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions)
+* [JavaScript Interview Questions & Answers](https://github.com/sudheerj/javascript-interview-questions)
+
 ### Reddit-Subreddits
 
 * [freeCodeCamp.org: Learn to Code for Free From Home](https://www.reddit.com/r/FreeCodeCamp/)
@@ -409,6 +418,7 @@
 
 * [freeCodeCamp](https://www.freecodecamp.org/)
 * [The Odin Project](https://www.theodinproject.com)
+* [Web Dev for Beginners - Microsoft](https://github.com/microsoft/Web-Dev-For-Beginners)
 
 ### Tools
 
