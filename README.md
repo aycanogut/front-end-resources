@@ -226,6 +226,7 @@
 
 ### Websites
 
+* [Git Explorer](https://gitexplorer.com/)
 * [Dangit, Git!?!](https://dangitgit.com/)
 * [Git from Beginner to Advanced by MadeByMike](https://www.madebymike.com.au/writing/how-to-git/)
 * [Advanced Git Tutorials by Bitbucket](https://www.atlassian.com/git/tutorials/advanced-overview)
@@ -410,6 +411,7 @@
 * [Sass - a language for building awesome CSS](https://www.reddit.com/r/Sass/)
 ### Roadmaps
 
+* [Web Skills Roadmap](https://andreasbm.github.io/web-skills/)
 * [Step by step guide to becoming a modern frontend developer by roadmap.sh](https://roadmap.sh/frontend)
 * [The Front-End Developer Learning Roadmap by FrontendMasters](https://frontendmasters.com/guides/learning-roadmap/)
 * [How to Learn Javsascript 2021](https://cult.honeypot.io/reads/how-to-learn-javascript-2021/)
