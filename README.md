@@ -425,7 +425,11 @@
 ### Tools
 
 * [daily.dev browser extension](https://daily.dev/)
+* [Vercel](https://vercel.com/)
+* [Netlify](https://www.netlify.com/)
+* [WakaTime](https://wakatime.com)
 * [carbon](https://carbon.now.sh/)
+
 
 ### Youtube-Channels
 
