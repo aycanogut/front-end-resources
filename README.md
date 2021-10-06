@@ -60,7 +60,7 @@
 
 ### Colors
 
-* [coloors - color schemes generator](https://coolors.co)
+* [**coloors** - color schemes generator](https://coolors.co)
 * [Hex Colors - color palette generator](https://hexcolor.co/)
 * [Canva Colors - multiple color tools](https://www.canva.com/colors/)
 * [contrast ratio - contrast checker](https://contrast-ratio.com/)
