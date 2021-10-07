@@ -245,6 +245,7 @@
 * [ES6 Handbook](https://devdojo.com/shreya/es6-handbook)
 * [Introduction to Promises and Async and Await Promises in Javascript! ✨](https://saharanitaa.hashnode.dev/introduction-to-promises-and-async-and-await-promises-in-javascript)
 * [How I built a modern website in 2021](https://kentcdodds.com/blog/how-i-built-a-modern-website-in-2021)
+* [17 Life-Saving JavaScript One-Liners 🔥](https://javascript.plainenglish.io/17-life-saving-javascript-one-liners-part1-b0b0b32c9f61)
 
 
 ### Books
@@ -252,12 +253,15 @@
 * [You Don't Know Javascript by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS)
 * [Eloquent Javascript by Marijn Haverbeke](https://eloquentjavascript.net/)
 
-### Courses
+### Courses-Practices
 
 * [30 Days of JavaScript](https://javascript30.com/)
 * [Introduction to How to Write an Open Source JavaScript Library - egghead](https://egghead.io/lessons/javascript-introduction-to-how-to-write-an-open-source-javascript-library)
 * [Learn Modern Javascript - scrimba](https://scrimba.com/learn/es6)
 * [Learn JavaScript for free - scrimba](https://scrimba.com/learn/learnjavascript)
+* [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+* [node.js-best-practices](https://github.com/goldbergyoni/nodebestpractices)
+* [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 
 ### Videos
 
@@ -275,6 +279,7 @@
 * [LEARN JS](https://www.learn-js.org/)
 * [egghead.io - Javascript](https://egghead.io/q/javascript)
 * [codecademy - Learn Javascript](https://www.codecademy.com/learn/introduction-to-javascript)
+* [public-apis](https://github.com/public-apis/public-apis)
 
 <hr>
 
@@ -288,6 +293,24 @@
 * [React — 5 Things That Might Surprise You](https://medium.com/geekculture/react-5-things-that-might-surprise-you-ddefd9fbac0f)
 * [Implementing Atomic Design in Modern React Development](https://charuka95.medium.com/implementing-atomic-design-in-modern-react-development-d58d743a0f0b)
 
+### Tools
+
+* [Create React App](https://create-react-app.dev/)
+* [React Starter Projects](https://www.javascriptstuff.com/react-starter-projects/)
+* [React Dev-Tools](https://reactjs.org/blog/2015/09/02/new-react-developer-tools.html)
+* [React Redux](https://redux.js.org/)
+* [Storybook](https://storybook.js.org/)
+* [React.js cheatsheet](https://devhints.io/react)
+* [evergreen](https://evergreen.segment.com/)
+* [React Styleguidist](https://react-styleguidist.js.org/)
+* [React Testing Library](https://testing-library.com/docs/react-testing-library/example-intro/)
+* [REACTIDE](https://reactide.io/)
+* [React Cosmos](https://reactcosmos.org/)
+* [React Proto](https://react-proto.github.io/react-proto/)
+* [React Hot Loader](https://gaearon.github.io/react-hot-loader/)
+* [React Hook Form](https://react-hook-form.com/)
+* [React Bits](https://vasanthk.gitbooks.io/react-bits/content/)
+* [React Bootstrap](https://react-bootstrap.github.io/)
 
 <hr>
 
@@ -378,7 +401,7 @@
 * [OpenVim](https://www.openvim.com/)
 * [Jamstack Attack](https://jamstack-attack.herokuapp.com/)
 
-### Interviews Questions
+### Interview Practices
 
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 * [mission-peace interview](https://github.com/mission-peace/interview)
@@ -386,6 +409,11 @@
 * [React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)
 * [123 Essential JavaScript Interview Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions)
 * [JavaScript Interview Questions & Answers](https://github.com/sudheerj/javascript-interview-questions)
+* [JavaScript Questions](https://github.com/lydiahallie/javascript-questions/blob/master/README.md)
+* [Tech Interview Handbook](https://techinterviewhandbook.org/)
+* [Front End Interview Handbook by Yangshun Tay](https://frontendinterviewhandbook.com/)
+
+
 
 ### Reddit-Subreddits
 
@@ -472,12 +500,13 @@
 * [Front-End Dev Bookmarks by Tim Navrotskyy](https://github.com/dypsilon/frontend-dev-bookmarks)
 * [200+ Ultimate Resources for Front-End Development in 2021 by Rahul](https://rahulism.hashnode.dev/200-ultimate-resources-for-front-end-development-in-2021)
 * [The Ultimate List of Web Development Podcasts](https://www.tuckertriggs.com/blog/ultimate-list-of-web-development-podcasts?__s=mw1vsbos5p3kz1ayksv5&utm_source=pocket_mylist)
-* [Front End Interview Handbook by Yangshun Tay](https://frontendinterviewhandbook.com/)
 * [Best Design Resources for Developers by Suhail Kakar](https://blog.suhailkakar.com/best-design-resources-for-developers)
 * [Rico's cheatsheet](https://devhints.io/)
 * [cult. by Honeypot](https://cult.honeypot.io/)
 * [codecademy Web Development Cheatsheet](https://www.codecademy.com/resources/cheatsheets/subject/web-development)
 * [OverAPI - Collecting All Cheat Sheets](https://overapi.com/)
 * [codrops](https://tympanus.net/codrops/)
-
+* [free-programming-books](https://ebookfoundation.github.io/free-programming-books/)
+* [free-for.dev](https://free-for.dev/#/)
+* [awesome-resources](https://github.com/sindresorhus/awesome)
 
