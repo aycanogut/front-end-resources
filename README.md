@@ -105,31 +105,31 @@
 * [700+ CSS Icons](https://css.gg/) - open-source svg and figma ui icons
 * [Streamline](https://streamlinehq.com/) - icons and emojis
 
-### Stock Photos-Illustrations
+### Stock Photos-Illustrations-Mockups
 
-* [Unsplash](https://unsplash.com/)
-* [Pexels](https://www.pexels.com/)
-* [Pixabay](https://pixabay.com/)
-* [Doodle Ipsum](https://doodleipsum.com/)
+* [Unsplash](https://unsplash.com/) - royalty free stock photos
+* [Pexels](https://www.pexels.com/) - free stock photos & videos
+* [Pixabay](https://pixabay.com/) - free images & royalty free stock
+* [Doodle Ipsum](https://doodleipsum.com/) - free illustrations and doodles
+* [ls.graphics, Mockups and UI toolsl](https://www.ls.graphics/) - mockups, illustratiosn and ui tools
 
 ### Tools-for-Responsive-Design
 
-* [MY DEVICE.io](https://www.mydevice.io/)
+* [MY DEVICE.io](https://www.mydevice.io/) a tool for responsive design, browser features
 
 
 ### Typography
 
-* [Typography 101 - Web Design For Beginners by Dev Ed](https://www.youtube.com/watch?v=HnpsOtIcfbo&feature=emb_title)
-* [The Fastest Google Fonts by CSS Wizardry](https://csswizardry.com/2020/05/the-fastest-google-fonts/)
+* [Typography 101 - Web Design For Beginners by Dev Ed](https://www.youtube.com/watch?v=HnpsOtIcfbo&feature=emb_title) - typography 101 introduction video
+* [The Fastest Google Fonts by CSS Wizardry](https://csswizardry.com/2020/05/the-fastest-google-fonts/) - an article about how to enhance performance with google fonts
 
 ### Websites
 
-* [Laws of UX](https://lawsofux.com/)
-* [Ux Tools](https://uxtools.co/)
-* [ls.graphics, Mockups and UI toolsl](https://www.ls.graphics/)
-* [Design Resources](https://www.designresourc.es/)
-* [UI Design Daily](https://www.uidesigndaily.com/)
-* [Daily Handpicked Free UI Kits for Your Projects](https://uifreebies.net/)
+* [Laws of UX](https://lawsofux.com/) - best practices for design and user interfaces
+* [Ux Tools](https://uxtools.co/) - tutorials and methods, skills about design
+* [Design Resources](https://www.designresourc.es/) - huge source for all kind of design tools
+* [UI Design Daily](https://www.uidesigndaily.com/) - daily design and ui pieces
+* [Daily Handpicked Free UI Kits for Your Projects](https://uifreebies.net/) daily design and ui pieces
 
 <hr>
 
