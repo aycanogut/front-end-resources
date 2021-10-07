@@ -292,6 +292,7 @@
 * [Ultimate ReactJS Resources 🛠For Web Developers 2021👨‍💻 ](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)
 * [React — 5 Things That Might Surprise You](https://medium.com/geekculture/react-5-things-that-might-surprise-you-ddefd9fbac0f)
 * [Implementing Atomic Design in Modern React Development](https://charuka95.medium.com/implementing-atomic-design-in-modern-react-development-d58d743a0f0b)
+* [Some Features Every React Developer Should Know](https://medium.com/nerd-for-tech/some-features-every-react-developer-should-know-f960117464e8)
 
 ### Tools
 
@@ -412,6 +413,7 @@
 * [JavaScript Questions](https://github.com/lydiahallie/javascript-questions/blob/master/README.md)
 * [Tech Interview Handbook](https://techinterviewhandbook.org/)
 * [Front End Interview Handbook by Yangshun Tay](https://frontendinterviewhandbook.com/)
+* [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 
 
 
