@@ -81,14 +81,6 @@
 * [webfontloader](https://github.com/typekit/webfontloader) - tool for controling @font-face rules
 * [BEfonts](https://befonts.com/) - free fonts for designers
 
-### Generators-Graidents
-
-* [CSS Separator Generator](https://wweb.dev/resources/css-separator-generator/) - make awkward separators html and css
-* [uiGradients](https://uigradients.com/#Dull) - gradient generator
-* [CSS Gradient](https://cssgradient.io/) - gradient generator
-* [gradient-designer](https://gradient-designer.csspost.com/) - gradient generator
-* [Mesh Gradient](https://meshgradient.com/) - gradient generator
-
 ### Icons
 
 * [flaticon](https://www.flaticon.com/) - vector icons & stickers
@@ -201,6 +193,22 @@
 
 * [Css Layout](https://csslayout.io/)
 * [SmolCSS](https://smolcss.dev/)
+
+### Generators
+
+* [CSS GRid Generator](https://cssgrid-generator.netlify.app/) - grid generator
+* [CSS Buttons Generator](https://markodenic.com/tools/buttons-generator/) - Button generator
+* [CSS box-shadow generator](https://box-shadow.dev/) - box-shadow generator
+* [Neumorphism.io](https://neumorphism.io/#e0e0e0) - Generate Sof-UI CSS code
+* [Make some waves!](https://getwaves.io/)  - Wave generator
+* [CSS Separator Generator](https://wweb.dev/resources/css-separator-generator/) - make awkward separators html and css
+* [uiGradients](https://uigradients.com/#Dull) - gradient generator
+* [Easing Gradients](https://larsenwork.com/easing-gradients/) - gradient generator
+* [CSS Gradient](https://cssgradient.io/) - gradient generator
+* [gradient-designer](https://gradient-designer.csspost.com/) - gradient generator
+* [Mesh Gradient](https://meshgradient.com/) - gradient generator
+* [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/) - border-radius generator
+* [Smooth shadow gradient](https://shadows.brumm.af/) - box-shadow gradient
 
 ### Videos
 
