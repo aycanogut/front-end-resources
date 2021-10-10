@@ -135,7 +135,6 @@
 ### Articles 
 
 * [How Web Works by Vasa](https://github.com/vasanthk/how-web-works)
-* [How HTTPS works](https://howhttps.works/)
 * [7 useful HTML attributes you may not know ](https://dev.to/simonpaix/7-useful-html-attributes-you-may-not-know-7mn)
 
 
@@ -157,7 +156,8 @@
 ### Websites
 
 * [HTML CheatSheet](https://htmlcheatsheet.com/)
-
+* [How HTTPS works](https://howhttps.works/)
+* [How DNS works](https://howdns.works/)
 
 <hr>
 
@@ -244,7 +244,16 @@
 
 # JavaScript
 
+### API 
+
+* [RapidAPI](https://rapidapi.com/collection/list-of-free-apis) - Free Public APIs for Developers
+* [any-api](https://any-api.com/) - Documentation and Test Consoles for Over 1400 Public APIs
+* [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development
+* [API list](https://apilist.fun/) - A collective list of APIs
+* [free-open apis](https://blog.hubspot.com/website/free-open-apis) - 30 Free & Open APIs for Marketers & Content Developers
+* [json placeholder](https://jsonplaceholder.typicode.com/) - Free fake API for testing and prototyping
 ### Articles
+
 * [Javascript in Plain English - New JavaScript content every day](https://javascript.plainenglish.io/)
 * [Building the DOM faster: speculative parsing, async, defer and preload by Milica Mihajlija](https://hacks.mozilla.org/2017/09/building-the-dom-faster-speculative-parsing-async-defer-and-preload/)
 * [The Ultimate Tutorial on JavaScript DOM - JS DOM with Examples ](https://dev.to/ubahthebuilder/the-ultimate-tutorial-on-javascript-dom-js-dom-with-examples-1b47)
@@ -271,10 +280,14 @@
 * [node.js-best-practices](https://github.com/goldbergyoni/nodebestpractices)
 * [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 
-### Videos
+### Conference Talks
 
 * [Becoming a better developer by using the SOLID design principles by Katerina Trajchevska](https://www.youtube.com/watch?v=rtmFCcjEgEw)
 * [The myth of the “Real JavaScript Developer” by Brenna O'Brien](https://www.youtube.com/watch?v=Xt5qpbiqw2g)
+* [How to fix the web by Brendan Eich](https://www.youtube.com/watch?v=zlcnOr81lPc&list=PLTektvstDHecgS_5pW3JKSepAq8IGWgLE&index=1)
+* [Get better at JavaScript with just JavaScript - Wes Bos](https://www.youtube.com/watch?v=pws4qzGn5ak&list=PLTektvstDHecgS_5pW3JKSepAq8IGWgLE&index=2&t=360s)
+* [Learning Functional Programming with JavaScript - Anjana Vakil](https://www.youtube.com/watch?v=e-5obm1G_FY&t=1s)
+
 ### Websites
 
 * [Just Javascript - Dan Abramov](https://justjavascript.com/)
