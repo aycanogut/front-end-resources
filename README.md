@@ -1,3 +1,7 @@
+# Introduction
+
+This is a collection of some (awesome) resources, mostly focused on front-end web development.
+
 # Table of contents
 
 - [Design](#Design)
