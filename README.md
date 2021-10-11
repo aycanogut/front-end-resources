@@ -359,6 +359,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 ### Articles
 
 * [Smashing Magazine - Guides to Web Design and Development ](https://www.smashingmagazine.com/guides/)
+* [Why learning to code is so damn hard?](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/)
 
 ### Blogs
 
