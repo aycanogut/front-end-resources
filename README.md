@@ -148,6 +148,9 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [Checklist by The A11y Project](https://www.a11yproject.com/checklist/)
 * [The Front-End Checklist](https://frontendchecklist.io/)
 
+### Performance
+
+* [My Challenge to the Web Performance Community](https://philipwalton.com/articles/my-challenge-to-the-web-performance-community/?utm_source=stefanjudis&utm_medium=email)
 ### Validation
 
 * [Can I use?](https://caniuse.com/)
@@ -178,6 +181,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 * [14 CSS Topics You Must Know ](https://dev.to/ageekdev/14-css-topics-you-must-know-2e0g)
 * [Simplifying Form Styles With `accent-color`](https://www.smashingmagazine.com/2021/09/simplifying-form-styles-accent-color/)
+* [The Large, Small, and Dynamic Viewports](https://www.bram.us/2021/07/08/the-large-small-and-dynamic-viewports/?utm_source=stefanjudis&utm_medium=email)
 
 ### Architectures-Methodologies
 
@@ -440,8 +444,21 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [Front End Interview Handbook by Yangshun Tay](https://frontendinterviewhandbook.com/)
 * [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 
+### Newsletters
 
-
+* [STACKR News](https://newsletter.codestackr.com/)
+* [newsletter by Kevin Powell](https://www.kevinpowell.co/newsletter/)
+* [flaviocopes newsletter](https://flaviocopes.com/page/newsletter/)
+* [CSS-Tricks Newsletter](https://css-tricks.com/newsletters/)
+* [Smashing Magazine Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/)
+* [ModernCSS by Stephanie Eckles](https://moderncss.dev/newsletter/)
+* [Stefan's Web Weekly](https://www.stefanjudis.com/newsletter/)
+* [JavaScript Weekly](https://javascriptweekly.com/)
+* [Web Tools Weekly](https://webtoolsweekly.com/)
+* [Frontend Focus](https://frontendfoc.us/)
+* [CSS Animation Weekly](http://weekly.cssanimation.rocks/)
+* [Dev Tips](https://umaar.com/dev-tips/)
+* [cssweekly](https://css-weekly.com/)
 ### Reddit-Subreddits
 
 * [freeCodeCamp.org: Learn to Code for Free From Home](https://www.reddit.com/r/FreeCodeCamp/)
