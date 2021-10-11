@@ -10,7 +10,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
   - [Fonts](#Fonts)
   - [Generators-Graidents](#Generators-Graidents)
   - [Icons](#Icons)
-  - [Stock Photos-Illustrations](#Stock-Photos-&-Illustrations)
+  - [Stock Photos-Illustrations](#stock-photos-illustrations-mockups)
   - [Tools-for-Responsive Design](#Tools-for-Responsive-Design)
   - [Typography](#Typography)
   - [Websites](#Websites)
