@@ -443,7 +443,24 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [Tech Interview Handbook](https://techinterviewhandbook.org/)
 * [Front End Interview Handbook by Yangshun Tay](https://frontendinterviewhandbook.com/)
 * [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
+#### System Design
+* [Front End Engineer](https://www.youtube.com/c/FrontEndEngineer)
 
+### Newsletters
+
+* [STACKR News](https://newsletter.codestackr.com/)
+* [newsletter by Kevin Powell](https://www.kevinpowell.co/newsletter/)
+* [flaviocopes newsletter](https://flaviocopes.com/page/newsletter/)
+* [CSS-Tricks Newsletter](https://css-tricks.com/newsletters/)
+* [Smashing Magazine Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/)
+* [ModernCSS by Stephanie Eckles](https://moderncss.dev/newsletter/)
+* [Stefan's Web Weekly](https://www.stefanjudis.com/newsletter/)
+* [JavaScript Weekly](https://javascriptweekly.com/)
+* [Web Tools Weekly](https://webtoolsweekly.com/)
+* [Frontend Focus](https://frontendfoc.us/)
+* [CSS Animation Weekly](http://weekly.cssanimation.rocks/)
+* [Dev Tips](https://umaar.com/dev-tips/)
+* [cssweekly](https://css-weekly.com/)
 ### Reddit-Subreddits
 
 * [freeCodeCamp.org: Learn to Code for Free From Home](https://www.reddit.com/r/FreeCodeCamp/)
