@@ -28,6 +28,8 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
   - [Videos](#Videos)
   - [Websites](#Websites)
 - [Git](#Git)
+  - [Videos](#Videos)
+  - [Courses](#Courses)
   - [Websites](#Websites)
 - [JavaScript](#JavasScript)
   - [Articles](#Articles)
@@ -245,6 +247,15 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 
 # Git
 
+### Courses
+
+* [Learn Git Branching](https://learngitbranching.js.org/)
+
+### Videos 
+
+* [Git & GitHub Crash Course For Beginners by Traversy Media](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+* [Git Explained in 100 Seconds by Fireship](https://www.youtube.com/watch?v=hwP7WQkmECE)
+* [Getting Started with GitKraken for GitHub Users](https://www.youtube.com/watch?v=AMFoJoNh3V4)
 ### Websites
 
 * [Git Explorer](https://gitexplorer.com/)
