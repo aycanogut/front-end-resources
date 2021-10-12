@@ -47,6 +47,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
   - [Documentations](#Documentations)
   - [Front-End-Challenges](#Front-End-Challenges)
   - [Interactive Games](#Interactive-Games)
+  - [Newsletters](#Newsletters)
   - [Reddit-Subreddits](#Reddit-Subreddits)
   - [Roadmaps](#Roadmaps)
   - [Online-Curriculums](#Online-Curriculums)
@@ -384,6 +385,12 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [dirtyMarkup](https://www.10bestdesign.com/dirtymarkup/)
 * [awesome-code-formatters](https://github.com/rishirdua/awesome-code-formatters)
 
+### Discord Communities
+
+* [Frontend Developers](https://discord.com/invite/aBx8dcu)
+* [Kevin Powell - Community](https://discord.com/invite/9Rc6WNhNGJ)
+* [KCD - Kent C. Dodds Community](https://discord.com/invite/euBTshKEnm)
+* [Reactiflux](https://discord.com/invite/reactiflux)
 ### Documentations
 
 * [DevDocs](https://devdocs.io/)
@@ -458,6 +465,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [Stefan's Web Weekly](https://www.stefanjudis.com/newsletter/)
 * [JavaScript Weekly](https://javascriptweekly.com/)
 * [Web Tools Weekly](https://webtoolsweekly.com/)
+* [Web Dev Simplified newsletter](https://courses.webdevsimplified.com/)
 * [Frontend Focus](https://frontendfoc.us/)
 * [CSS Animation Weekly](http://weekly.cssanimation.rocks/)
 * [Dev Tips](https://umaar.com/dev-tips/)
