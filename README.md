@@ -25,17 +25,17 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
   - [Architectures-Methodologies](#Architectures-Methodologies)
   - [CSS-in-JS](#CSS-in-JS)
   - [Design-Systems](#Design-Systems)
-  - [Videos](#Videos)
+  - [CSS-Videos](#CSS-Videos)
   - [CSS-Websites](#CSS-Websites)
 - [Git](#Git)
-  - [Videos](#Videos)
-  - [Courses](#Courses)
+  - [Git-Courses](#Git-Courses)
+  - [Git-Videos](#Git-Videos)
   - [Git-Websites](#Git-Websites)
 - [JavaScript](#JavasScript)
   - [JavaScript-Articles](#JavaScript-Articles)
-  - [Books](#Books)
+  - [JavaScript-Books](#JavaScript-Books)
   - [Roadmaps](#Roadmaps)
-  - [Videos](#Videos)
+  - [Conference-Talks](#Conference-Talks)
   - [JavaScript-Websites](#JavaScript-Websites)
 - [React](#React)
   - [React-Articles](#React-Articles)
@@ -44,7 +44,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
   - [Algorithm-Challenges](#Algorithm-Challenges)
   - [Other-Articles](#Articles)
   - [Blogs](#Blogs)
-  - [Books](#Books)
+  - [Other Books](#Books)
   - [Code-Formatters](#Code-Formatters)
   - [Documentations](#Documentations)
   - [Front-End-Challenges](#Front-End-Challenges)
@@ -225,7 +225,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/) - border-radius generator
 * [Smooth shadow gradient](https://shadows.brumm.af/) - box-shadow gradient
 
-### Videos
+### CSS-Videos
 
 * [Sass Tutorial for Beginners - CSS With Superpowers by codeSTACKr](https://www.youtube.com/watch?v=_a5j7KoflTs)
 
@@ -247,11 +247,11 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 
 # Git
 
-### Courses
+### Git-Courses
 
 * [Learn Git Branching](https://learngitbranching.js.org/)
 
-### Videos 
+### Git-Videos 
 
 * [Git & GitHub Crash Course For Beginners by Traversy Media](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 * [Git Explained in 100 Seconds by Fireship](https://www.youtube.com/watch?v=hwP7WQkmECE)
@@ -289,7 +289,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [17 Life-Saving JavaScript One-Liners 🔥](https://javascript.plainenglish.io/17-life-saving-javascript-one-liners-part1-b0b0b32c9f61)
 
 
-### Books
+### JavaScript-Books
 
 * [You Don't Know Javascript by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS)
 * [Eloquent Javascript by Marijn Haverbeke](https://eloquentjavascript.net/)
@@ -304,7 +304,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [node.js-best-practices](https://github.com/goldbergyoni/nodebestpractices)
 * [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 
-### Conference Talks
+### Conference-Talks
 
 * [Becoming a better developer by using the SOLID design principles by Katerina Trajchevska](https://www.youtube.com/watch?v=rtmFCcjEgEw)
 * [The myth of the “Real JavaScript Developer” by Brenna O'Brien](https://www.youtube.com/watch?v=Xt5qpbiqw2g)
@@ -390,7 +390,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [Zell Liew](https://zellwk.com/blog/)
 * [Kyle Cook (Web Dev Simplified)](https://blog.webdevsimplified.com/)
 
-### Books
+### Other-Books
 
 * [Frontend Masters Books](https://frontendmasters.com/books/)
 
