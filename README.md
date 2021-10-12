@@ -10,7 +10,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
   - [Fonts](#Fonts)
   - [Generators-Graidents](#Generators-Graidents)
   - [Icons](#Icons)
-  - [Stock Photos-Illustrations](#Stock-Photos-&-Illustrations)
+  - [Stock Photos-Illustrations](#stock-photos-illustrations-mockups)
   - [Tools-for-Responsive Design](#Tools-for-Responsive-Design)
   - [Typography](#Typography)
   - [Websites](#Websites)
@@ -108,7 +108,11 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [Pexels](https://www.pexels.com/) - free stock photos & videos
 * [Pixabay](https://pixabay.com/) - free images & royalty free stock
 * [Doodle Ipsum](https://doodleipsum.com/) - free illustrations and doodles
-* [ls.graphics, Mockups and UI toolsl](https://www.ls.graphics/) - mockups, illustratiosn and ui tools
+* [ls.graphics, Mockups and UI toolsl](https://www.ls.graphics/) - mockups, illustration and ui tools
+* [PurePNG](https://purepng.com/) - Pure PNG Image Library
+* [FavPNG](https://favpng.com/) - Free Transparent PNG Images
+* [CleanPNG](https://www.cleanpng.com/) - Free PNG Images
+* [StickPNG](http://www.stickpng.com/) - Free PNG Stickers
 
 ### Tools-for-Responsive-Design
 
