@@ -13,30 +13,30 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
   - [Stock Photos-Illustrations](#stock-photos-illustrations-mockups)
   - [Tools-for-Responsive Design](#Tools-for-Responsive-Design)
   - [Typography](#Typography)
-  - [Websites](#Websites)
+  - [Design-Websites](#Design-Websites)
 - [HTML](#HTML)
   - [Accessibility](#Accessibility)
   - [Articles](#Articles)
   - [Checklist](#Checklist)
   - [Validation](#Validation)
-  - [Websites](#Websites)
+  - [HTML-Websites](#HTML-Websites)
 - [CSS](#CSS)
   - [Articles](#Articles)
   - [Architectures-Methodologies](#Architectures-Methodologies)
   - [CSS-in-JS](#CSS-in-JS)
   - [Design-Systems](#Design-Systems)
   - [Videos](#Videos)
-  - [Websites](#Websites)
+  - [CSS-Websites](#CSS-Websites)
 - [Git](#Git)
   - [Videos](#Videos)
   - [Courses](#Courses)
-  - [Websites](#Websites)
+  - [Git-Websites](#Git-Websites)
 - [JavaScript](#JavasScript)
   - [Articles](#Articles)
   - [Books](#Books)
   - [Roadmaps](#Roadmaps)
   - [Videos](#Videos)
-  - [Websites](#Websites)
+  - [JavaScript-Websites](#JavaScript-Websites)
 - [React](#React)
   - [Articles](#Articles)
   - [Roadmaps](#Roadmaps)
@@ -126,7 +126,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [Typography 101 - Web Design For Beginners by Dev Ed](https://www.youtube.com/watch?v=HnpsOtIcfbo&feature=emb_title) - typography 101 introduction video
 * [The Fastest Google Fonts by CSS Wizardry](https://csswizardry.com/2020/05/the-fastest-google-fonts/) - an article about how to enhance performance with google fonts
 
-### Websites
+### Design-Websites
 
 * [Laws of UX](https://lawsofux.com/) - best practices for design and user interfaces
 * [Ux Tools](https://uxtools.co/) - tutorials and methods, skills about design
@@ -167,7 +167,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [What the tag ?!](https://whatthetag.com/#/)
 
 
-### Websites
+### HTML-Websites
 
 * [HTML CheatSheet](https://htmlcheatsheet.com/)
 * [How HTTPS works](https://howhttps.works/)
@@ -229,7 +229,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 
 * [Sass Tutorial for Beginners - CSS With Superpowers by codeSTACKr](https://www.youtube.com/watch?v=_a5j7KoflTs)
 
-### Websites
+### CSS-Websites
 
 * [css-tricks](https://css-tricks.com/)
 * [cssreference.io](https://cssreference.io/)
@@ -256,7 +256,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [Git & GitHub Crash Course For Beginners by Traversy Media](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 * [Git Explained in 100 Seconds by Fireship](https://www.youtube.com/watch?v=hwP7WQkmECE)
 * [Getting Started with GitKraken for GitHub Users](https://www.youtube.com/watch?v=AMFoJoNh3V4)
-### Websites
+### Git-Websites
 
 * [Git Explorer](https://gitexplorer.com/)
 * [Dangit, Git!?!](https://dangitgit.com/)
@@ -312,7 +312,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [Get better at JavaScript with just JavaScript - Wes Bos](https://www.youtube.com/watch?v=pws4qzGn5ak&list=PLTektvstDHecgS_5pW3JKSepAq8IGWgLE&index=2&t=360s)
 * [Learning Functional Programming with JavaScript - Anjana Vakil](https://www.youtube.com/watch?v=e-5obm1G_FY&t=1s)
 
-### Websites
+### JavaScript-Websites
 
 * [Just Javascript - Dan Abramov](https://justjavascript.com/)
 * [Free Javascript Resources](https://www.java5cript.com/)
