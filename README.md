@@ -5,7 +5,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 # Table of contents
 
 - [Design](#Design)
-  - [Articles](#Articles)
+  - [Design-Articles](#Design-Articles)
   - [Colors](#Colors)
   - [Fonts](#Fonts)
   - [Generators-Graidents](#Generators-Graidents)
@@ -16,12 +16,12 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
   - [Design-Websites](#Design-Websites)
 - [HTML](#HTML)
   - [Accessibility](#Accessibility)
-  - [Articles](#Articles)
+  - [HTML-Articles](#HTML-Articles)
   - [Checklist](#Checklist)
   - [Validation](#Validation)
   - [HTML-Websites](#HTML-Websites)
 - [CSS](#CSS)
-  - [Articles](#Articles)
+  - [CSS-Articles](#CSS-Articles)
   - [Architectures-Methodologies](#Architectures-Methodologies)
   - [CSS-in-JS](#CSS-in-JS)
   - [Design-Systems](#Design-Systems)
@@ -32,17 +32,17 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
   - [Courses](#Courses)
   - [Git-Websites](#Git-Websites)
 - [JavaScript](#JavasScript)
-  - [Articles](#Articles)
+  - [JavaScript-Articles](#JavaScript-Articles)
   - [Books](#Books)
   - [Roadmaps](#Roadmaps)
   - [Videos](#Videos)
   - [JavaScript-Websites](#JavaScript-Websites)
 - [React](#React)
-  - [Articles](#Articles)
+  - [React-Articles](#React-Articles)
   - [Roadmaps](#Roadmaps)
 - [Other-Content](#Other-Content)
   - [Algorithm-Challenges](#Algorithm-Challenges)
-  - [Articles](#Articles)
+  - [Other-Articles](#Articles)
   - [Blogs](#Blogs)
   - [Books](#Books)
   - [Code-Formatters](#Code-Formatters)
@@ -61,7 +61,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 
 # Design
 
-### Articles 
+### Design-Articles 
 
 * [Pixel Perfect Web Development: 5 Essential Steps by Daniel Corin Stig](https://thewhitelabelagency.com/pixel-perfect-web-development-5-essential-steps/)
 
@@ -143,7 +143,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [A Complete Guide To Accessible Front-End Components by Vitaly Friedman](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components)
 * [The Importance Of Manual Accessibility Testing](https://www.smashingmagazine.com/2018/09/importance-manual-accessibility-testing/)
 
-### Articles 
+### HTML-Articles 
 
 * [How Web Works by Vasa](https://github.com/vasanthk/how-web-works)
 * [7 useful HTML attributes you may not know ](https://dev.to/simonpaix/7-useful-html-attributes-you-may-not-know-7mn)
@@ -177,7 +177,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 
 # CSS
 
-### Articles
+### CSS-Articles
 
 * [Understanding Clip Path in CSS by Ahmad Shadeed](https://ishadeed.com/article/clip-path)
 * [Efficient font stack with Sass by Fabrice Lejeune](https://gist.github.com/fabricelejeune/bcdd3d4725d4e4cea672)
@@ -276,7 +276,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [API list](https://apilist.fun/) - A collective list of APIs
 * [free-open apis](https://blog.hubspot.com/website/free-open-apis) - 30 Free & Open APIs for Marketers & Content Developers
 * [json placeholder](https://jsonplaceholder.typicode.com/) - Free fake API for testing and prototyping
-### Articles
+### JavaScript-Articles
 
 * [Javascript in Plain English - New JavaScript content every day](https://javascript.plainenglish.io/)
 * [Building the DOM faster: speculative parsing, async, defer and preload by Milica Mihajlija](https://hacks.mozilla.org/2017/09/building-the-dom-faster-speculative-parsing-async-defer-and-preload/)
@@ -330,7 +330,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 
 # React
 
-### Articles
+### React-Articles
 
 * [How to learn React - The Effective way ](https://dev.to/shaan_alam/how-to-learn-react-the-effective-way-2km7)
 * [5 Packages Every React Developer Must Know](https://javascript.plainenglish.io/5-packages-every-react-developer-must-know-e06bf1b96514)
@@ -372,7 +372,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [HackerEarth Codemonk](https://www.hackerearth.com/practice/codemonk/)
 * [LeetCode](https://leetcode.com/)
 * [edabit](https://edabit.com/)
-### Articles
+### Other-Articles
 
 * [Smashing Magazine - Guides to Web Design and Development ](https://www.smashingmagazine.com/guides/)
 * [Why learning to code is so damn hard?](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/)
