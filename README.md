@@ -8,7 +8,6 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
   - [Design-Articles](#Design-Articles)
   - [Colors](#Colors)
   - [Fonts](#Fonts)
-  - [Generators-Graidents](#Generators-Graidents)
   - [Icons](#Icons)
   - [Stock Photos-Illustrations](#stock-photos-illustrations-mockups)
   - [Tools-for-Responsive Design](#Tools-for-Responsive-Design)
@@ -24,7 +23,8 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
   - [CSS-Articles](#CSS-Articles)
   - [Architectures-Methodologies](#Architectures-Methodologies)
   - [CSS-in-JS](#CSS-in-JS)
-  - [Design-Systems](#Design-Systems)
+  - [CSS-Design-Systems](#CSS-Design-Systems)
+  - [Generators](#Generators)
   - [CSS-Videos](#CSS-Videos)
   - [CSS-Websites](#CSS-Websites)
 - [Git](#Git)
@@ -204,7 +204,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 
 * [Styled Components](https://styled-components.com)
 * [Stitches](https://stitches.dev/)
-### Design-Systems
+### CSS-Design-Systems
 
 * [Css Layout](https://csslayout.io/)
 * [SmolCSS](https://smolcss.dev/)
