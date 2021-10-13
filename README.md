@@ -156,6 +156,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 ### Performance
 
 * [My Challenge to the Web Performance Community](https://philipwalton.com/articles/my-challenge-to-the-web-performance-community/?utm_source=stefanjudis&utm_medium=email)
+
 ### Validation
 
 * [Can I use?](https://caniuse.com/)
@@ -209,7 +210,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 
 ### Generators
 
-* [CSS GRid Generator](https://cssgrid-generator.netlify.app/) - grid generator
+* [CSS Grid Generator](https://cssgrid-generator.netlify.app/) - grid generator
 * [CSS Buttons Generator](https://markodenic.com/tools/buttons-generator/) - Button generator
 * [CSS box-shadow generator](https://box-shadow.dev/) - box-shadow generator
 * [Neumorphism.io](https://neumorphism.io/#e0e0e0) - Generate Sof-UI CSS code
@@ -254,6 +255,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [Git & GitHub Crash Course For Beginners by Traversy Media](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 * [Git Explained in 100 Seconds by Fireship](https://www.youtube.com/watch?v=hwP7WQkmECE)
 * [Getting Started with GitKraken for GitHub Users](https://www.youtube.com/watch?v=AMFoJoNh3V4)
+
 ### Git-Websites
 
 * [Git Explorer](https://gitexplorer.com/)
@@ -274,6 +276,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [API list](https://apilist.fun/) - A collective list of APIs
 * [free-open apis](https://blog.hubspot.com/website/free-open-apis) - 30 Free & Open APIs for Marketers & Content Developers
 * [json placeholder](https://jsonplaceholder.typicode.com/) - Free fake API for testing and prototyping
+
 ### JavaScript-Articles
 
 * [Javascript in Plain English - New JavaScript content every day](https://javascript.plainenglish.io/)
@@ -370,6 +373,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [HackerEarth Codemonk](https://www.hackerearth.com/practice/codemonk/)
 * [LeetCode](https://leetcode.com/)
 * [edabit](https://edabit.com/)
+
 ### Other-Articles
 
 * [Smashing Magazine - Guides to Web Design and Development ](https://www.smashingmagazine.com/guides/)
@@ -463,6 +467,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [JavaScript Questions](https://github.com/lydiahallie/javascript-questions/blob/master/README.md)
 * [Tech Interview Handbook](https://techinterviewhandbook.org/)
 * [Front End Interview Handbook by Yangshun Tay](https://frontendinterviewhandbook.com/)
+* [JavaScript Code Challenges](https://github.com/sadanandpai/javascript-code-challenges)
 * [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 #### System Design
 * [Front End Engineer](https://www.youtube.com/c/FrontEndEngineer)
@@ -483,6 +488,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [CSS Animation Weekly](http://weekly.cssanimation.rocks/)
 * [Dev Tips](https://umaar.com/dev-tips/)
 * [cssweekly](https://css-weekly.com/)
+
 ### Reddit-Subreddits
 
 * [freeCodeCamp.org: Learn to Code for Free From Home](https://www.reddit.com/r/FreeCodeCamp/)
@@ -506,6 +512,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [css_irl](https://www.reddit.com/r/css_irl/)
 * [Help for reddit's CSS](https://www.reddit.com/r/csshelp/)
 * [Sass - a language for building awesome CSS](https://www.reddit.com/r/Sass/)
+
 ### Roadmaps
 
 * [Web Skills Roadmap](https://andreasbm.github.io/web-skills/)
@@ -513,6 +520,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [The Front-End Developer Learning Roadmap by FrontendMasters](https://frontendmasters.com/guides/learning-roadmap/)
 * [How to Learn Javsascript 2021](https://cult.honeypot.io/reads/how-to-learn-javascript-2021/)
 * [React advanced education](https://www.mindmeister.com/1982032240?t=INxEXrxj1w)
+
 ### Online-Curriculums
 
 * [freeCodeCamp](https://www.freecodecamp.org/)
@@ -577,4 +585,3 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [free-programming-books](https://ebookfoundation.github.io/free-programming-books/)
 * [free-for.dev](https://free-for.dev/#/)
 * [awesome-resources](https://github.com/sindresorhus/awesome)
-
