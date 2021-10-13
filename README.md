@@ -24,7 +24,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
   - [Architectures-Methodologies](#Architectures-Methodologies)
   - [CSS-in-JS](#CSS-in-JS)
   - [CSS-Design-Systems](#CSS-Design-Systems)
-  - [Generators](#Generators)
+  - [CSS-Generators](#CSS-Generators)
   - [CSS-Videos](#CSS-Videos)
   - [CSS-Websites](#CSS-Websites)
 - [Git](#Git)
@@ -34,6 +34,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 - [JavaScript](#JavaScript)
   - [JavaScript-Articles](#JavaScript-Articles)
   - [JavaScript-Books](#JavaScript-Books)
+  - [JavaScript-Courses-Practices](#JavaScript-Courses-Practices)
   - [Conference-Talks](#Conference-Talks)
   - [JavaScript-Websites](#JavaScript-Websites)
 - [React](#React)
@@ -295,7 +296,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [You Don't Know Javascript by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS)
 * [Eloquent Javascript by Marijn Haverbeke](https://eloquentjavascript.net/)
 
-### Courses-Practices
+### JavaScript-Courses-Practices
 
 * [30 Days of JavaScript](https://javascript30.com/)
 * [Introduction to How to Write an Open Source JavaScript Library - egghead](https://egghead.io/lessons/javascript-introduction-to-how-to-write-an-open-source-javascript-library)
