@@ -290,11 +290,11 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [How I built a modern website in 2021](https://kentcdodds.com/blog/how-i-built-a-modern-website-in-2021)
 * [17 Life-Saving JavaScript One-Liners 🔥](https://javascript.plainenglish.io/17-life-saving-javascript-one-liners-part1-b0b0b32c9f61)
 
-
 ### JavaScript-Books
 
 * [You Don't Know Javascript by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS)
 * [Eloquent Javascript by Marijn Haverbeke](https://eloquentjavascript.net/)
+* [JSbooks - The best free JavaScript resources](https://jsbooks.revolunet.com/)
 
 ### JavaScript-Courses-Practices
 
@@ -305,6 +305,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [node.js-best-practices](https://github.com/goldbergyoni/nodebestpractices)
 * [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
+
 
 ### Conference-Talks
 
