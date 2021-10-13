@@ -209,7 +209,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [Css Layout](https://csslayout.io/)
 * [SmolCSS](https://smolcss.dev/)
 
-### Generators
+### CSS-Generators
 
 * [CSS Grid Generator](https://cssgrid-generator.netlify.app/) - grid generator
 * [CSS Buttons Generator](https://markodenic.com/tools/buttons-generator/) - Button generator
