@@ -49,6 +49,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
   - [Front-End-Challenges](#Front-End-Challenges)
   - [Interactive Games](#Interactive-Games)
   - [Newsletters](#Newsletters)
+  - [Podcasts](#Podcasts)
   - [Reddit-Subreddits](#Reddit-Subreddits)
   - [Roadmaps](#Roadmaps)
   - [Online-Curriculums](#Online-Curriculums)
@@ -491,6 +492,24 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [Dev Tips](https://umaar.com/dev-tips/)
 * [cssweekly](https://css-weekly.com/)
 
+### Podcasts
+
+* [Syntax.](https://syntax.fm/)
+* [Front End Happy Hour](https://www.frontendhappyhour.com/)
+* [The CSS Podcast](https://thecsspodcast.libsyn.com/)
+* [The freeCodeCamp Podcast](https://freecodecamp.libsyn.com/)
+* [CodePen Radio](https://blog.codepen.io/radio/)
+* [JavaScript Jabber](https://devchat.tv/show/javascript-jabber)
+* [JS Party](https://changelog.com/jsparty)
+* [Ladybug Podcast](https://www.ladybug.dev/)
+* [Orbit FM - Web of Tomorrow](https://www.orbit.fm/weboftomorrow)
+* [Full Stack Radio](https://fullstackradio.com/)
+* [Frontside Podcast](https://frontside.com/podcast/)
+* [developer tea](https://developertea.com/)
+* [egghead.io podcast](https://egghead.io/q?type=podcast)
+* [The Front End Podcast](https://thefrontendpodcast.site/)
+* [Frontend News 2021](https://podcasts.apple.com/us/podcast/frontend-news-2021-frontendhouse-com/id1549875490)
+* []()
 ### Reddit-Subreddits
 
 * [freeCodeCamp.org: Learn to Code for Free From Home](https://www.reddit.com/r/FreeCodeCamp/)
