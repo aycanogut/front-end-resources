@@ -509,7 +509,6 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [egghead.io podcast](https://egghead.io/q?type=podcast)
 * [The Front End Podcast](https://thefrontendpodcast.site/)
 * [Frontend News 2021](https://podcasts.apple.com/us/podcast/frontend-news-2021-frontendhouse-com/id1549875490)
-* []()
 ### Reddit-Subreddits
 
 * [freeCodeCamp.org: Learn to Code for Free From Home](https://www.reddit.com/r/FreeCodeCamp/)
