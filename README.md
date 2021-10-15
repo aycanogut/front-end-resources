@@ -361,6 +361,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [React Hook Form](https://react-hook-form.com/)
 * [React Bits](https://vasanthk.gitbooks.io/react-bits/content/)
 * [React Bootstrap](https://react-bootstrap.github.io/)
+* [kbar - command + k interface](https://github.com/timc1/kbar)
 
 <hr>
 
