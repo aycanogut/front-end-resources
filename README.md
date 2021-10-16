@@ -316,10 +316,12 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [node.js-best-practices](https://github.com/goldbergyoni/nodebestpractices)
 * [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 
+<!-- 
 ### JavaScript-Tools
 * [vite.js]()
 * [parcel]()
 * [gulp]()
+ -->
 
 ### JavaScript-Websites
 
