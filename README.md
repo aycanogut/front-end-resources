@@ -348,7 +348,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [Implementing Atomic Design in Modern React Development](https://charuka95.medium.com/implementing-atomic-design-in-modern-react-development-d58d743a0f0b)
 * [Some Features Every React Developer Should Know](https://medium.com/nerd-for-tech/some-features-every-react-developer-should-know-f960117464e8)
 
-### Tools
+### React-Tools
 
 * [Create React App](https://create-react-app.dev/)
 * [React Starter Projects](https://www.javascriptstuff.com/react-starter-projects/)
