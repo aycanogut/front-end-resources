@@ -34,11 +34,13 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 - [JavaScript](#JavaScript)
   - [JavaScript-Articles](#JavaScript-Articles)
   - [JavaScript-Books](#JavaScript-Books)
+  - [JavaScript-Conference-Talks](#JavaScript-Conference-Talks)
   - [JavaScript-Courses-Practices](#JavaScript-Courses-Practices)
-  - [Conference-Talks](#Conference-Talks)
+  - [JavaScript-Tools](#JavaScript-Tools)
   - [JavaScript-Websites](#JavaScript-Websites)
 - [React](#React)
   - [React-Articles](#React-Articles)
+  - [React-Tools](#React-Tools)
 - [Other-Content](#Other-Content)
   - [Algorithm-Challenges](#Algorithm-Challenges)
   - [Other-Articles](#Other-Articles)
@@ -296,6 +298,13 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [You Don't Know Javascript by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS)
 * [Eloquent Javascript by Marijn Haverbeke](https://eloquentjavascript.net/)
 * [JSbooks - The best free JavaScript resources](https://jsbooks.revolunet.com/)
+### JavaScript-Conference-Talks
+
+* [Becoming a better developer by using the SOLID design principles by Katerina Trajchevska](https://www.youtube.com/watch?v=rtmFCcjEgEw)
+* [The myth of the “Real JavaScript Developer” by Brenna O'Brien](https://www.youtube.com/watch?v=Xt5qpbiqw2g)
+* [How to fix the web by Brendan Eich](https://www.youtube.com/watch?v=zlcnOr81lPc&list=PLTektvstDHecgS_5pW3JKSepAq8IGWgLE&index=1)
+* [Get better at JavaScript with just JavaScript - Wes Bos](https://www.youtube.com/watch?v=pws4qzGn5ak&list=PLTektvstDHecgS_5pW3JKSepAq8IGWgLE&index=2&t=360s)
+* [Learning Functional Programming with JavaScript - Anjana Vakil](https://www.youtube.com/watch?v=e-5obm1G_FY&t=1s)
 
 ### JavaScript-Courses-Practices
 
@@ -307,14 +316,10 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [node.js-best-practices](https://github.com/goldbergyoni/nodebestpractices)
 * [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 
-
-### Conference-Talks
-
-* [Becoming a better developer by using the SOLID design principles by Katerina Trajchevska](https://www.youtube.com/watch?v=rtmFCcjEgEw)
-* [The myth of the “Real JavaScript Developer” by Brenna O'Brien](https://www.youtube.com/watch?v=Xt5qpbiqw2g)
-* [How to fix the web by Brendan Eich](https://www.youtube.com/watch?v=zlcnOr81lPc&list=PLTektvstDHecgS_5pW3JKSepAq8IGWgLE&index=1)
-* [Get better at JavaScript with just JavaScript - Wes Bos](https://www.youtube.com/watch?v=pws4qzGn5ak&list=PLTektvstDHecgS_5pW3JKSepAq8IGWgLE&index=2&t=360s)
-* [Learning Functional Programming with JavaScript - Anjana Vakil](https://www.youtube.com/watch?v=e-5obm1G_FY&t=1s)
+### JavaScript-Tools
+* [vite.js]()
+* [parcel]()
+* [gulp]()
 
 ### JavaScript-Websites
 
