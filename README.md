@@ -316,12 +316,17 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [node.js-best-practices](https://github.com/goldbergyoni/nodebestpractices)
 * [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 
-<!-- 
+
 ### JavaScript-Tools
-* [vite.js]()
-* [parcel]()
-* [gulp]()
- -->
+
+* [vite.js](https://vitejs.dev/)
+* [Parcel](https://parceljs.org/)
+* [gulp](https://gulpjs.com/)
+* [webpack](https://webpack.js.org/)
+* [esbuild](https://esbuild.github.io/)
+* [Grunt](https://gruntjs.com/)
+* [Babel](https://babeljs.io/)
+
 
 ### JavaScript-Websites
 
