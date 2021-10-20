@@ -214,6 +214,10 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 
 ### CSS-Generators
 
+* [CSS-GEN box-shadow Generator](https://generate-css.com/box-shadow-generator/)
+* [CSS-GEN border-radius Generator](https://generate-css.com/border-radius-generator/)
+* [CSS-GEN transform Generator](https://generate-css.com/transform-generator/)
+* [CSS-GEN image-filter Generator](https://generate-css.com/image-filter/)
 * [CSS Grid Generator](https://cssgrid-generator.netlify.app/) - grid generator
 * [CSS Buttons Generator](https://markodenic.com/tools/buttons-generator/) - Button generator
 * [CSS box-shadow generator](https://box-shadow.dev/) - box-shadow generator
