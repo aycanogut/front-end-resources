@@ -437,6 +437,9 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
  
 * [Frontend Mentor.io](https://www.frontendmentor.io)
 * [DevProjects by codementor.io](https://www.codementor.io/projects)
+* [Ace FrontEnd](https://www.acefrontend.com/)
+* [codewell](https://www.codewell.cc)
+* [devChallenges](https://devchallenges.io/)
 
 ### Interactive-Games
 
@@ -475,6 +478,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [CodinGame](https://www.codingame.com/start)
 * [OpenVim](https://www.openvim.com/)
 * [Jamstack Attack](https://jamstack-attack.herokuapp.com/)
+* [JavaScript Quiz](https://javascriptquiz.com/)
 
 ### Interview Practices
 
