@@ -428,6 +428,9 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [Kevin Powell - Community](https://discord.com/invite/9Rc6WNhNGJ)
 * [KCD - Kent C. Dodds Community](https://discord.com/invite/euBTshKEnm)
 * [Reactiflux](https://discord.com/invite/reactiflux)
+* [Bruno Simon Community (Three.js)](https://discord.gg/F4WxPafp)
+* [Next.js Community](https://discord.gg/nextjs)
+
 ### Documentations
 
 * [DevDocs](https://devdocs.io/)
