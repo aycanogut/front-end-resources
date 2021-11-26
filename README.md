@@ -4,68 +4,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 
 # Table of contents
 
-- [Introduction](#introduction)
-- [Table of contents](#table-of-contents)
-- [Design](#design)
-    - [Design-Articles](#design-articles)
-    - [Colors](#colors)
-    - [Fonts](#fonts)
-    - [Icons](#icons)
-    - [Stock Photos-Illustrations-Mockups](#stock-photos-illustrations-mockups)
-    - [Tools-for-Responsive-Design](#tools-for-responsive-design)
-    - [Typography](#typography)
-    - [Design-Websites](#design-websites)
-- [HTML](#html)
-    - [Accessibility](#accessibility)
-    - [HTML-Articles](#html-articles)
-    - [Checklist](#checklist)
-    - [Performance](#performance)
-    - [Validation](#validation)
-    - [HTML-Websites](#html-websites)
-- [CSS](#css)
-    - [CSS-Articles](#css-articles)
-    - [Architectures-Methodologies](#architectures-methodologies)
-    - [CSS-in-JS](#css-in-js)
-    - [CSS-Design-Systems](#css-design-systems)
-    - [CSS-Generators](#css-generators)
-    - [CSS-Videos](#css-videos)
-    - [CSS-Websites](#css-websites)
-- [Git](#git)
-    - [Git-Courses](#git-courses)
-    - [Git-Videos](#git-videos)
-    - [Git-Websites](#git-websites)
-- [JavaScript](#javascript)
-    - [API](#api)
-    - [JavaScript-Articles](#javascript-articles)
-    - [JavaScript-Books](#javascript-books)
-    - [JavaScript-Conference-Talks](#javascript-conference-talks)
-    - [JavaScript-Courses-Practices](#javascript-courses-practices)
-    - [JavaScript-Tools](#javascript-tools)
-    - [JavaScript-Websites](#javascript-websites)
-- [React](#react)
-    - [React-Articles](#react-articles)
-    - [React-Frameworks](#react-frameworks)
-    - [React-Tools](#react-tools)
-- [Other-Content](#other-content)
-    - [Algorithm-Challenges](#algorithm-challenges)
-    - [Other-Articles](#other-articles)
-    - [Blogs](#blogs)
-    - [Other-Books](#other-books)
-    - [Code-Formatters](#code-formatters)
-    - [Discord Communities](#discord-communities)
-    - [Documentations](#documentations)
-    - [Front-End-Challenges](#front-end-challenges)
-    - [Interactive-Games](#interactive-games)
-    - [Interview Practices](#interview-practices)
-      - [System Design](#system-design)
-    - [Newsletters](#newsletters)
-    - [Podcasts](#podcasts)
-    - [Reddit-Subreddits](#reddit-subreddits)
-    - [Roadmaps](#roadmaps)
-    - [Online-Curriculums](#online-curriculums)
-    - [Tools](#tools)
-    - [Youtube-Channels](#youtube-channels)
-    - [Mixed-Content](#mixed-content)
+
 
 <hr />
 
@@ -644,3 +583,20 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [free-programming-books](https://ebookfoundation.github.io/free-programming-books/)
 * [free-for.dev](https://free-for.dev/#/)
 * [awesome-resources](https://github.com/sindresorhus/awesome)
+
+# Web-3.0
+
+### Articles
+
+* [Why does Web 3.0 Exist? - Web3 Oversimplified](https://blog.heyonuoha.live/why-does-web-30-exist-web3-oversimplified)
+
+
+### Technologies
+
+* [Solidity](https://docs.soliditylang.org/en/v0.8.10/#)
+
+### Youtube Channels
+
+* [Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
+* [Web3 Foundation](https://www.youtube.com/channel/UClnw_bcNg4CAzF772qEtq4g)
+* [Moralis Web3](https://www.youtube.com/channel/UCgWS9Q3P5AxCWyQLT2kQhBw)
