@@ -665,3 +665,4 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
 * [Web3 Foundation](https://www.youtube.com/channel/UClnw_bcNg4CAzF772qEtq4g)
 * [Moralis Web3](https://www.youtube.com/channel/UCgWS9Q3P5AxCWyQLT2kQhBw)
+* [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks/videos)
