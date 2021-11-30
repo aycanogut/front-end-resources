@@ -654,7 +654,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 ### Articles
 
 * [Why does Web 3.0 Exist? - Web3 Oversimplified](https://blog.heyonuoha.live/why-does-web-30-exist-web3-oversimplified)
-
+* [Web 3.0: A Developer Roadmap, Guide, and Resources to Get Started](https://blog.idrisolubisi.com/web-3-a-developer-roadmap-and-resources-to-get-started)
 
 ### Technologies
 
