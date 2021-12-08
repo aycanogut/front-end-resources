@@ -69,6 +69,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 - [Web-3.0](#web-30)
     - [Articles](#articles)
     - [Technologies](#technologies)
+    - [Videos](#videos)
     - [Youtube Channels](#youtube-channels-1)
 
 <hr />
@@ -263,6 +264,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 * [State of CSS](https://2020.stateofcss.com/en-US/)
 * [Sass cheatsheet](https://devhints.io/sass)
 * [Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.](https://github.com/Famolus/awesome-sass)
+* [What does 100% mean in CSS?](https://wattenberger.com/blog/css-percents)
 
 <hr>
 
@@ -659,6 +661,10 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 ### Technologies
 
 * [Solidity](https://docs.soliditylang.org/en/v0.8.10/#)
+  
+### Videos
+
+* [Is Web3 all Hype? Top 10 Web 3.0 Questions & Answers by Fireship](https://www.youtube.com/watch?v=wHTcrmhskto&t=2s)
 
 ### Youtube Channels
 
