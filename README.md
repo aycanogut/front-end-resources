@@ -30,7 +30,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
     - [CSS-Generators](#css-generators)
     - [CSS-Videos](#css-videos)
     - [CSS-Websites](#css-websites)
-- [Git](#git)
+- [Git&Github](#gitgithub)
     - [Git-Courses](#git-courses)
     - [Git-Videos](#git-videos)
     - [Git-Websites](#git-websites)
@@ -269,11 +269,12 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 
 <hr>
 
-# Git
+# Git&Github
 
 ### Git-Courses
 
 * [Learn Git Branching](https://learngitbranching.js.org/)
+* [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)
 
 ### Git-Videos 
 
