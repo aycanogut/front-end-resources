@@ -64,7 +64,6 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
     - [Reddit-Subreddits](#reddit-subreddits)
     - [Roadmaps](#roadmaps)
     - [Online-Curriculums](#online-curriculums)
-    - [Tools](#tools)
     - [Youtube-Channels](#youtube-channels)
     - [Mixed-Content](#mixed-content)
 - [Web-3.0](#web-30)
@@ -608,7 +607,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 
 * [freeCodeCamp](https://www.freecodecamp.org/)
 * [The Odin Project](https://www.theodinproject.com)
-* [Web Dev for Beginners - Microsoft](https://github.com/microsoft/Web-Dev-For-Beginners))
+* [Web Dev for Beginners - Microsoft](https://github.com/microsoft/Web-Dev-For-Beginners)
 
 ### Youtube-Channels
 
