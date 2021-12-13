@@ -80,7 +80,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 ### Design-Articles 
 
 * [Pixel Perfect Web Development: 5 Essential Steps by Daniel Corin Stig](https://thewhitelabelagency.com/pixel-perfect-web-development-5-essential-steps/)
-
+* [Learn Responsive Design! by web.dev](https://web.dev/learn/design/)
 ### Colors
 
 * [coloors](https://coolors.co)  - color schemes generator
