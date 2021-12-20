@@ -598,6 +598,7 @@ This is a collection of some (awesome) resources, mostly focused on front-end we
 
 ### Roadmaps
 
+* [2022 Web Dev Roadmap by codeSTACKr](https://courses.codestackr.com/courses/2022-web-dev-roadmap/)
 * [Web Skills Roadmap](https://andreasbm.github.io/web-skills/)
 * [Step by step guide to becoming a modern frontend developer by roadmap.sh](https://roadmap.sh/frontend)
 * [The Front-End Developer Learning Roadmap by FrontendMasters](https://frontendmasters.com/guides/learning-roadmap/)
