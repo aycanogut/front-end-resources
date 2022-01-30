@@ -2,10 +2,7 @@
 
 This is a collection of (awe)some resources, mostly focused on front-end web development.
 
-# Table of contents
-
 - [Introduction](#introduction)
-- [Table of contents](#table-of-contents)
 - [Design](#design)
     - [Design-Articles](#design-articles)
     - [Colors](#colors)
@@ -45,7 +42,9 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [React](#react)
     - [React-Articles](#react-articles)
     - [React-Frameworks](#react-frameworks)
+    - [React-Hooks](#react-hooks)
     - [React-Tools](#react-tools)
+- [TypeScript](#typescript)
 - [Other-Content](#other-content)
     - [Algorithm-Challenges](#algorithm-challenges)
     - [Other-Articles](#other-articles)
@@ -383,6 +382,9 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 * [Next.js](https://nextjs.org/)
 * [REMIX](https://remix.run/)
 * [Gatsby](https://www.gatsbyjs.com/)
+
+### React-Hooks 
+* [react-use](https://github.com/streamich/react-use)
 ### React-Tools
 
 * [Create React App](https://create-react-app.dev/)
@@ -405,6 +407,10 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 
 <hr>
 
+# TypeScript
+
+* [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react)
+* [Type Challenges](https://github.com/type-challenges/type-challenges)
 # Other-Content
 
 ### Algorithm-Challenges
