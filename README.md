@@ -417,10 +417,13 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 * [The Relevance of TypeScript in 2022](https://css-tricks.com/the-relevance-of-typescript-in-2022/)
 
 ### TypeScript-Courses
+
 * [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react)
 
 ### TypeScript-Challenges
+
 * [Type Challenges](https://github.com/type-challenges/type-challenges)
+* [TypeScript exercises](https://typescript-exercises.github.io/)
 # Other-Content
 
 ### Algorithm-Challenges
