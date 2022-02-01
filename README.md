@@ -45,6 +45,9 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
     - [React-Hooks](#react-hooks)
     - [React-Tools](#react-tools)
 - [TypeScript](#typescript)
+    - [TypeScript-Articles](#typescript-articles)
+    - [TypeScript-Courses](#typescript-courses)
+    - [TypeScript-Challenges](#typescript-challenges)
 - [Other-Content](#other-content)
     - [Algorithm-Challenges](#algorithm-challenges)
     - [Other-Articles](#other-articles)
@@ -409,7 +412,14 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 
 # TypeScript
 
+### TypeScript-Articles
+
+* [The Relevance of TypeScript in 2022](https://css-tricks.com/the-relevance-of-typescript-in-2022/)
+
+### TypeScript-Courses
 * [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react)
+
+### TypeScript-Challenges
 * [Type Challenges](https://github.com/type-challenges/type-challenges)
 # Other-Content
 
