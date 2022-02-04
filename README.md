@@ -417,6 +417,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 
 ### TypeScript-Articles
 
+* [An Introduction to TypeScript](https://devdojo.com/suniljoshi19/an-introduction-to-typescript)
 * [The Relevance of TypeScript in 2022](https://css-tricks.com/the-relevance-of-typescript-in-2022/)
 
 ### TypeScript-Courses
@@ -484,6 +485,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 * [GitKarken](https://www.gitkraken.com/) - Git GUI & Git CLI with a lot of features.
 * [DevBook](https://usedevbook.com/) - Search through the DevDocs and StackOverflow without switching to your browser.
 * [daıly.dev](https://daily.dev/) - Great tool for finding hottest trends and popular articles.
+* 
 ### Discord Communities
 
 * [Frontend Developers](https://discord.com/invite/aBx8dcu)
