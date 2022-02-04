@@ -317,12 +317,15 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 * [Introduction to Promises and Async and Await Promises in Javascript! ✨](https://saharanitaa.hashnode.dev/introduction-to-promises-and-async-and-await-promises-in-javascript)
 * [How I built a modern website in 2021](https://kentcdodds.com/blog/how-i-built-a-modern-website-in-2021)
 * [17 Life-Saving JavaScript One-Liners 🔥](https://javascript.plainenglish.io/17-life-saving-javascript-one-liners-part1-b0b0b32c9f61)
+* [2ality – JavaScript and more](https://2ality.com/index.html)
 
 ### JavaScript-Books
 
 * [You Don't Know Javascript by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS)
 * [Eloquent Javascript by Marijn Haverbeke](https://eloquentjavascript.net/)
 * [JSbooks - The best free JavaScript resources](https://jsbooks.revolunet.com/)
+* [Exploring JS: JavaScript books for programmers](https://exploringjs.com/)
+
 ### JavaScript-Conference-Talks
 
 * [Becoming a better developer by using the SOLID design principles by Katerina Trajchevska](https://www.youtube.com/watch?v=rtmFCcjEgEw)
