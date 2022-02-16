@@ -249,6 +249,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 * [Mesh Gradient](https://meshgradient.com/) - gradient generator
 * [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/) - border-radius generator
 * [Smooth shadow gradient](https://shadows.brumm.af/) - box-shadow gradient
+* [CSS Scroll Shadows!](https://bit.ly/3JxejGt)
 
 ### CSS-Videos
 
