@@ -31,6 +31,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
     - [Git-Courses](#git-courses)
     - [Git-Videos](#git-videos)
     - [Git-Websites](#git-websites)
+    - [Git-Tools](#git-tools)
 - [JavaScript](#javascript)
     - [API](#api)
     - [JavaScript-Articles](#javascript-articles)
@@ -294,6 +295,10 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [Advanced Git Tutorials by Bitbucket](https://www.atlassian.com/git/tutorials/advanced-overview)
 - [Little Things I Like to Do with Git](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/)
 - [Oh Shit, Git!?!](https://ohshitgit.com/)
+
+### Git-Tools
+
+- [lazygit](https://github.com/jesseduffield/lazygit) simple terminal UI for git commands
 
 <hr>
 
