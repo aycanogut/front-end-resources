@@ -376,6 +376,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [codecademy - Learn Javascript](https://www.codecademy.com/learn/introduction-to-javascript)
 - [public-apis](https://github.com/public-apis/public-apis)
 - [JSON Visio](https://jsonvisio.com/) - simple visualization tool for your JSON data.
+- [Manage HTML DOM with vanilla JavaScript](https://htmldom.dev/)
 
 <hr>
 
