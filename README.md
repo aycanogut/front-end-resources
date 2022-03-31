@@ -209,6 +209,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [14 CSS Topics You Must Know ](https://dev.to/ageekdev/14-css-topics-you-must-know-2e0g)
 - [Simplifying Form Styles With `accent-color`](https://www.smashingmagazine.com/2021/09/simplifying-form-styles-accent-color/)
 - [The Large, Small, and Dynamic Viewports](https://www.bram.us/2021/07/08/the-large-small-and-dynamic-viewports/?utm_source=stefanjudis&utm_medium=email)
+- [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
 
 ### Architectures-Methodologies
 
