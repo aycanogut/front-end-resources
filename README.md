@@ -67,6 +67,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
     - [Reddit-Subreddits](#reddit-subreddits)
     - [Roadmaps](#roadmaps)
     - [Online-Curriculums](#online-curriculums)
+    - [Tools](#tools)
     - [Youtube-Channels](#youtube-channels)
     - [Mixed-Content](#mixed-content)
 - [Web-3.0](#web-30)
@@ -653,6 +654,10 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - [The Odin Project](https://www.theodinproject.com)
 - [Web Dev for Beginners - Microsoft](https://github.com/microsoft/Web-Dev-For-Beginners)
+
+### Tools
+
+- [Squoosh](https://squoosh.app/) - image optimization
 
 ### Youtube-Channels
 
