@@ -8,6 +8,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
     - [Colors](#colors)
     - [Fonts](#fonts)
     - [Icons](#icons)
+    - [Optimization Tools](#optimization-tools)
     - [Stock Photos-Illustrations-Mockups](#stock-photos-illustrations-mockups)
     - [Tools-for-Responsive-Design](#tools-for-responsive-design)
     - [Typography](#typography)
@@ -67,7 +68,6 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
     - [Reddit-Subreddits](#reddit-subreddits)
     - [Roadmaps](#roadmaps)
     - [Online-Curriculums](#online-curriculums)
-    - [Tools](#tools)
     - [Youtube-Channels](#youtube-channels)
     - [Mixed-Content](#mixed-content)
 - [Web-3.0](#web-30)
@@ -123,6 +123,12 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [Icon Finder](https://www.iconfinder.com/) - icon library and illustrations
 - [700+ CSS Icons](https://css.gg/) - open-source svg and figma ui icons
 - [Streamline](https://streamlinehq.com/) - icons and emojis
+
+### Optimization Tools
+
+- [Squoosh](https://squoosh.app/) - image optimization
+- [tiny png](https://tinypng.com/)
+- [ImageOptim](https://imageoptim.com/mac)
 
 ### Stock Photos-Illustrations-Mockups
 
@@ -654,10 +660,6 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - [The Odin Project](https://www.theodinproject.com)
 - [Web Dev for Beginners - Microsoft](https://github.com/microsoft/Web-Dev-For-Beginners)
-
-### Tools
-
-- [Squoosh](https://squoosh.app/) - image optimization
 
 ### Youtube-Channels
 
