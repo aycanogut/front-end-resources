@@ -372,7 +372,8 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 
 ### JavaScript-Websites
 
-- [Just Javascript - Dan Abramov](https://justjavascript.com/)
+- [Just Javascript](https://justjavascript.com/) - text based javascript course
+- [whatthefuck.is - ](https://whatthefuck.is/) - dan's javascript glossary
 - [Free Javascript Resources](https://www.java5cript.com/)
 - [Javascript CheatSheet](https://htmlcheatsheet.com/js/)
 - [SheCodes Javascript Cheatsheet](https://www.frontendcheatsheets.com/javascript)
