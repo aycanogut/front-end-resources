@@ -28,6 +28,10 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
     - [CSS-Generators](#css-generators)
     - [CSS-Videos](#css-videos)
     - [CSS-Websites](#css-websites)
+- [Front-End-Resources](#front-end-resources)
+    - [Front-End-Articles](#front-end-articles)
+    - [Front-End-Challenges](#front-end-challenges)
+    - [Front-End-Websites](#front-end-websites)
 - [Git&Github](#gitgithub)
     - [Git-Courses](#git-courses)
     - [Git-Videos](#git-videos)
@@ -52,14 +56,12 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
     - [TypeScript-Challenges](#typescript-challenges)
 - [Other-Content](#other-content)
     - [Algorithm-Challenges](#algorithm-challenges)
-    - [Other-Articles](#other-articles)
     - [Blogs](#blogs)
     - [Other-Books](#other-books)
     - [Code-Formatters](#code-formatters)
     - [Developer&Productivity-Tools](#developerproductivity-tools)
     - [Discord Communities](#discord-communities)
     - [Documentations](#documentations)
-    - [Front-End-Challenges](#front-end-challenges)
     - [Interactive-Games](#interactive-games)
     - [Interview Practices](#interview-practices)
       - [System Design](#system-design)
@@ -282,6 +284,28 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 
 <hr>
 
+# Front-End-Resources
+
+### Front-End-Articles
+
+- [Smashing Magazine - Guides to Web Design and Development ](https://www.smashingmagazine.com/guides/)
+- [Why learning to code is so damn hard?](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/)
+
+### Front-End-Challenges
+
+- [Frontend Mentor.io](https://www.frontendmentor.io)
+- [DevProjects by codementor.io](https://www.codementor.io/projects)
+- [Ace FrontEnd](https://www.acefrontend.com/)
+- [codewell](https://www.codewell.cc)
+- [devChallenges](https://devchallenges.io/)
+
+### Front-End-Websites
+
+- [This vs That](https://thisthat.dev/)
+- [Front End Web Development Resources by Ritik Patni](https://github.com/RitikPatni/Front-End-Web-Development-Resources)
+- [Front-End Dev Bookmarks by Tim Navrotskyy](https://github.com/dypsilon/frontend-dev-bookmarks)
+- [200+ Ultimate Resources for Front-End Development in 2021 by Rahul](https://rahulism.hashnode.dev/200-ultimate-resources-for-front-end-development-in-2021)
+
 # Git&Github
 
 ### Git-Courses
@@ -463,11 +487,6 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [LeetCode](https://leetcode.com/)
 - [edabit](https://edabit.com/)
 
-### Other-Articles
-
-- [Smashing Magazine - Guides to Web Design and Development ](https://www.smashingmagazine.com/guides/)
-- [Why learning to code is so damn hard?](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/)
-
 ### Blogs
 
 - [Dav Abramov Medium](https://medium.com/@dan_abramov)
@@ -522,14 +541,6 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [React Docs (beta)](https://beta.reactjs.org/)
 - [DevDocs](https://devdocs.io/)
 - [sass-lang](https://sass-lang.com)
-
-### Front-End-Challenges
-
-- [Frontend Mentor.io](https://www.frontendmentor.io)
-- [DevProjects by codementor.io](https://www.codementor.io/projects)
-- [Ace FrontEnd](https://www.acefrontend.com/)
-- [codewell](https://www.codewell.cc)
-- [devChallenges](https://devchallenges.io/)
 
 ### Interactive-Games
 
@@ -697,9 +708,6 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [30 Seconds of Code](https://www.30secondsofcode.org/)
 - [Awesome Free Developer Resources by codeSTACKr](https://github.com/codeSTACKr/free-developer-resources)
 - [Design Resources by Brad Traversy & Csaba Kissi](https://designresources.dev/)
-- [Front End Web Development Resources by Ritik Patni](https://github.com/RitikPatni/Front-End-Web-Development-Resources)
-- [Front-End Dev Bookmarks by Tim Navrotskyy](https://github.com/dypsilon/frontend-dev-bookmarks)
-- [200+ Ultimate Resources for Front-End Development in 2021 by Rahul](https://rahulism.hashnode.dev/200-ultimate-resources-for-front-end-development-in-2021)
 - [The Ultimate List of Web Development Podcasts](https://www.tuckertriggs.com/blog/ultimate-list-of-web-development-podcasts?__s=mw1vsbos5p3kz1ayksv5&utm_source=pocket_mylist)
 - [Best Design Resources for Developers by Suhail Kakar](https://blog.suhailkakar.com/best-design-resources-for-developers)
 - [Rico's cheatsheet](https://devhints.io/)
