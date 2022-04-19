@@ -347,6 +347,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 
 ### JavaScript-Articles
 
+- [Top 6 JavaScript ES12 Features You Should Use](https://www.syncfusion.com/blogs/post/top-6-javascript-es12-features-you-should-use.aspx)
 - [Javascript in Plain English - New JavaScript content every day](https://javascript.plainenglish.io/)
 - [Building the DOM faster: speculative parsing, async, defer and preload by Milica Mihajlija](https://hacks.mozilla.org/2017/09/building-the-dom-faster-speculative-parsing-async-defer-and-preload/)
 - [The Ultimate Tutorial on JavaScript DOM - JS DOM with Examples ](https://dev.to/ubahthebuilder/the-ultimate-tutorial-on-javascript-dom-js-dom-with-examples-1b47)
