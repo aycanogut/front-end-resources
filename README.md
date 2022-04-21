@@ -209,6 +209,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 ### CSS-Articles
 
 - [Understanding Clip Path in CSS by Ahmad Shadeed](https://ishadeed.com/article/clip-path)
+- [Defensive CSS by Ahmad Shadeed](https://ishadeed.com/article/defensive-css/)
 - [Efficient font stack with Sass by Fabrice Lejeune](https://gist.github.com/fabricelejeune/bcdd3d4725d4e4cea672)
 - [Responsive Typography With Sass Maps by Jonathan Suh](https://www.smashingmagazine.com/2015/06/responsive-typography-with-sass-maps)
 - [What Does a Well-Documented CSS Codebase Look Like? by Kaloyan Kosev](https://css-tricks.com/well-documented-css-codebase-look-like/)
