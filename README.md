@@ -291,6 +291,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 
 - [Smashing Magazine - Guides to Web Design and Development ](https://www.smashingmagazine.com/guides/)
 - [Why learning to code is so damn hard?](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/)
+- [The Front-End Developer's Guide to the Terminal](https://www.joshwcomeau.com/javascript/terminal-for-js-devs/)
 
 ### Front-End-Challenges
 
