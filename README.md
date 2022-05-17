@@ -369,7 +369,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [Eloquent Javascript by Marijn Haverbeke](https://eloquentjavascript.net/)
 - [JSbooks - The best free JavaScript resources](https://jsbooks.revolunet.com/)
 - [Exploring JS: JavaScript books for programmers](https://exploringjs.com/)
-- [Learning Pattenrs by Lydia Hallie and Addy Osmani](https://www.patterns.dev/)
+- [Learning Patterns by Lydia Hallie and Addy Osmani](https://www.patterns.dev/)
 
 ### JavaScript-Conference-Talks
 
