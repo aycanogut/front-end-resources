@@ -429,6 +429,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [React — 5 Things That Might Surprise You](https://medium.com/geekculture/react-5-things-that-might-surprise-you-ddefd9fbac0f)
 - [Implementing Atomic Design in Modern React Development](https://charuka95.medium.com/implementing-atomic-design-in-modern-react-development-d58d743a0f0b)
 - [Some Features Every React Developer Should Know](https://medium.com/nerd-for-tech/some-features-every-react-developer-should-know-f960117464e8)
+- [A Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/#each-render-has-its-own-effects)
 
 ### React-Frameworks
 
