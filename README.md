@@ -11,6 +11,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
     - [Optimization Tools](#optimization-tools)
     - [Stock Photos-Illustrations-Mockups](#stock-photos-illustrations-mockups)
     - [Tools-for-Responsive-Design](#tools-for-responsive-design)
+    - [Tools](#tools)
     - [Typography](#typography)
     - [Design-Websites](#design-websites)
 - [HTML](#html)
@@ -148,6 +149,10 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 ### Tools-for-Responsive-Design
 
 - [MY DEVICE.io](https://www.mydevice.io/) a tool for responsive design, browser features
+
+### Tools
+
+- [Contrast](https://usecontrast.com/) - a tool for contrast checker
 
 ### Typography
 
