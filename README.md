@@ -523,6 +523,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 ### Other-Books
 
 - [Frontend Masters Books](https://frontendmasters.com/books/)
+- [grokking algorithms](https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf)
 
 ### Code-Formatters
 
