@@ -436,6 +436,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [Implementing Atomic Design in Modern React Development](https://charuka95.medium.com/implementing-atomic-design-in-modern-react-development-d58d743a0f0b)
 - [Some Features Every React Developer Should Know](https://medium.com/nerd-for-tech/some-features-every-react-developer-should-know-f960117464e8)
 - [A Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/#each-render-has-its-own-effects)
+- [Persistent login in React using refresh token rotation](https://blog.logrocket.com/persistent-login-in-react-using-refresh-token-rotation/)
 
 ### React-Frameworks
 
