@@ -437,6 +437,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [Some Features Every React Developer Should Know](https://medium.com/nerd-for-tech/some-features-every-react-developer-should-know-f960117464e8)
 - [A Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/#each-render-has-its-own-effects)
 - [Persistent login in React using refresh token rotation](https://blog.logrocket.com/persistent-login-in-react-using-refresh-token-rotation/)
+- [React Authentication & Access Control](https://css-tricks.com/react-authentication-access-control/#:~:text=Your%20React%20app%20requests%20a,needs%20to%20make%20a%20request.)
 
 ### React-Frameworks
 
