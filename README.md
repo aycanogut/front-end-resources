@@ -3,6 +3,7 @@
 This is a collection of (awe)some resources, mostly focused on front-end web development.
 
 - [Introduction](#introduction)
+- [API](#api)
 - [Design](#design)
     - [Design-Articles](#design-articles)
     - [Colors](#colors)
@@ -39,7 +40,6 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
     - [Git-Websites](#git-websites)
     - [Git-Tools](#git-tools)
 - [JavaScript](#javascript)
-    - [API](#api)
     - [JavaScript-Articles](#javascript-articles)
     - [JavaScript-Books](#javascript-books)
     - [JavaScript-Conference-Talks](#javascript-conference-talks)
@@ -81,6 +81,15 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
     - [Youtube Channels](#youtube-channels-1)
 
 <hr />
+
+# API
+
+- [RapidAPI](https://rapidapi.com/collection/list-of-free-apis) - Free Public APIs for Developers
+- [any-api](https://any-api.com/) - Documentation and Test Consoles for Over 1400 Public APIs
+- [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development
+- [API list](https://apilist.fun/) - A collective list of APIs
+- [free-open apis](https://blog.hubspot.com/website/free-open-apis) - 30 Free & Open APIs for Marketers & Content Developers
+- [json placeholder](https://jsonplaceholder.typicode.com/) - Free fake API for testing and prototyping
 
 # Design
 
@@ -314,6 +323,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [Front End Web Development Resources by Ritik Patni](https://github.com/RitikPatni/Front-End-Web-Development-Resources)
 - [Front-End Dev Bookmarks by Tim Navrotskyy](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [200+ Ultimate Resources for Front-End Development in 2021 by Rahul](https://rahulism.hashnode.dev/200-ultimate-resources-for-front-end-development-in-2021)
+- [ZTM Free Developer Resources](https://zerotomastery.io/resources/?utm_source=mailerlite&utm_medium=email&utm_campaign=the_1_question_i_get_asked_by_students&utm_term=2022-06-05)
 
 # Git&Github
 
@@ -344,15 +354,6 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 <hr>
 
 # JavaScript
-
-### API
-
-- [RapidAPI](https://rapidapi.com/collection/list-of-free-apis) - Free Public APIs for Developers
-- [any-api](https://any-api.com/) - Documentation and Test Consoles for Over 1400 Public APIs
-- [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development
-- [API list](https://apilist.fun/) - A collective list of APIs
-- [free-open apis](https://blog.hubspot.com/website/free-open-apis) - 30 Free & Open APIs for Marketers & Content Developers
-- [json placeholder](https://jsonplaceholder.typicode.com/) - Free fake API for testing and prototyping
 
 ### JavaScript-Articles
 
@@ -395,6 +396,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [node.js-best-practices](https://github.com/goldbergyoni/nodebestpractices)
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
+- [JavaScript Cheat Sheet: The Advanced Concepts](https://zerotomastery.io/cheatsheets/javascript-cheatsheet-the-advanced-concepts/#JavaScriptEngine)
 
 ### JavaScript-Tools
 
