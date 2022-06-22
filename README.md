@@ -387,6 +387,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [17 Life-Saving JavaScript One-Liners 🔥](https://javascript.plainenglish.io/17-life-saving-javascript-one-liners-part1-b0b0b32c9f61)
 - [2ality – JavaScript and more](https://2ality.com/index.html)
 - [How to Use JavaScript Arrays Like a Pro](https://javascript.plainenglish.io/how-to-use-javascript-arrays-like-a-pro-3137b3218fef)
+- [How much JavaScript should I learn? 🤔](https://medium.com/@shadmansaalim321/how-much-javascript-should-you-learn-8c9178ef6f5)
 
 ### JavaScript-Books
 
