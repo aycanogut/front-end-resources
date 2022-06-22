@@ -752,6 +752,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 ### Mixed-Content
 
 - [web.dev](https://web.dev/)
+- [Coder Survival Guide](https://raindrop.io/laurent-devernay/coder-survival-guide-7258291)
 - [tutorialzine](https://tutorialzine.com/)
 - [30 Seconds of Code](https://www.30secondsofcode.org/)
 - [Awesome Free Developer Resources by codeSTACKr](https://github.com/codeSTACKr/free-developer-resources)
