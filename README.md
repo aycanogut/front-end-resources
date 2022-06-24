@@ -748,6 +748,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 - [CS50](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
 - [JSConf](https://www.youtube.com/c/JSConfEU)
+- [uidotdev](https://www.youtube.com/c/uidotdev)
 
 ### Mixed-Content
 
