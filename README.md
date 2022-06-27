@@ -545,6 +545,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [Zell Liew](https://zellwk.com/blog/)
 - [Kyle Cook (Web Dev Simplified)](https://blog.webdevsimplified.com/)
 - [Lydia Hallie](https://www.lydiahallie.io/)
+- [Lee Rob](https://leerob.io/blog)
 
 ### Other-Books
 
