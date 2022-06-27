@@ -397,6 +397,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [JSbooks - The best free JavaScript resources](https://jsbooks.revolunet.com/)
 - [Exploring JS: JavaScript books for programmers](https://exploringjs.com/)
 - [Learning Patterns by Lydia Hallie and Addy Osmani](https://www.patterns.dev/)
+- [JavaScript Allongé: A strong cup of functions, objects, combinators, and decorators](https://leanpub.com/javascriptallongesix/read#leanpub-auto-about-javascript-allong)
 
 ### JavaScript-Conference-Talks
 
