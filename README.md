@@ -162,6 +162,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 
 ### Stock Photos-Illustrations-Mockups
 
+- [Image Host Company](https://www.imagehostcompany.com/) - Host images on your Google Drive
 - [Unsplash](https://unsplash.com/) - royalty free stock photos
 - [Pexels](https://www.pexels.com/) - free stock photos & videos
 - [Pixabay](https://pixabay.com/) - free images & royalty free stock
