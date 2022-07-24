@@ -675,6 +675,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [Front End Happy Hour](https://www.frontendhappyhour.com/)
 - [The CSS Podcast](https://thecsspodcast.libsyn.com/)
 - [The freeCodeCamp Podcast](https://freecodecamp.libsyn.com/)
+- [Shop Talk Show](https://shoptalkshow.com/)
 - [CodePen Radio](https://blog.codepen.io/radio/)
 - [JavaScript Jabber](https://devchat.tv/show/javascript-jabber)
 - [JS Party](https://changelog.com/jsparty)
