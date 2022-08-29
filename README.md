@@ -775,6 +775,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [free-programming-books](https://ebookfoundation.github.io/free-programming-books/)
 - [free-for.dev](https://free-for.dev/#/)
 - [awesome-resources](https://github.com/sindresorhus/awesome)
+- [Today I Learned by jbranchaud](https://github.com/jbranchaud/til)
 
 # Web-3.0
 
