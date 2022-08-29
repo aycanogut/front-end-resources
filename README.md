@@ -514,6 +514,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 ### TypeScript-Courses
 
 - [React+TypeScript Cheatsheets](https://github.com/typescript-cheatsheets/react)
+- [Beginners TypeScript Tutorial](https://github.com/total-typescript/beginners-typescript-tutorial)
 
 ### TypeScript-Challenges
 
