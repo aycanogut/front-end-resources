@@ -523,7 +523,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 
 ### TypeScript-Tools
 
--[TypeScript Error Translator](https://ts-error-translator.vercel.app/)
+- [TypeScript Error Translator](https://ts-error-translator.vercel.app/)
 
 # Other-Content
 
