@@ -579,7 +579,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [WakaTime](https://wakatime.com/) - Track your time in both browser and IDE.
 - [GitKarken](https://www.gitkraken.com/) - Git GUI & Git CLI with a lot of features.
 - [DevBook](https://usedevbook.com/) - Search through the DevDocs and StackOverflow without switching to your browser.
-- [daıly.dev](https://daily.dev/) - Great tool for finding hottest trends and popular articles.
+- [daily.dev](https://daily.dev/) - Great tool for finding hottest trends and popular articles.
 
 ### Discord Communities
 
