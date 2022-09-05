@@ -435,6 +435,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 
 - [Just Javascript](https://justjavascript.com/) - text based javascript course
 - [whatthefuck.is - ](https://whatthefuck.is/) - dan's javascript glossary
+- [JavaScript Patterns Workshop](https://javascriptpatterns.vercel.app/patterns)
 - [Free Javascript Resources](https://www.java5cript.com/)
 - [Javascript CheatSheet](https://htmlcheatsheet.com/js/)
 - [SheCodes Javascript Cheatsheet](https://www.frontendcheatsheets.com/javascript)
