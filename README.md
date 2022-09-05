@@ -447,7 +447,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [egghead.io - Javascript](https://egghead.io/q/javascript)
 - [codecademy - Learn Javascript](https://www.codecademy.com/learn/introduction-to-javascript)
 - [public-apis](https://github.com/public-apis/public-apis)
-- [JSON Visio](https://jsonvisio.com/) - simple visualization tool for your JSON data.
+- [JSON Crack](https://jsoncrack.com/) - seamlessly visualize your JSON data instantly into graphs
 - [Manage HTML DOM with vanilla JavaScript](https://htmldom.dev/)
 
 <hr>
