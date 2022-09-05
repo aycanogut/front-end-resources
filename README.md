@@ -147,6 +147,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [iconmonstr](https://iconmonstr.com/) - icon library
 - [IcoMoon](https://icomoon.io/) - pixel perfect icon solutions
 - [heroicons](https://heroicons.dev/) - free icon library
+- [heroicons](https://heroicons.com/) - by the makers of tailwindcss
 - [Bootstrap Icons](https://icons.getbootstrap.com/) - free icon library
 - [Font Awesome](https://fontawesome.com/) - icon library
 - [Simlpe Icons](https://simpleicons.org/) - icon library
