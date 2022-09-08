@@ -326,6 +326,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [Why learning to code is so damn hard?](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/)
 - [The Front-End Developer's Guide to the Terminal](https://www.joshwcomeau.com/javascript/terminal-for-js-devs/)
 - [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/)
+- [Front-end may soon need new sub-disciplines](https://medium.com/@muratcorlu/front-end-may-soon-need-new-sub-disciplines-60a4cde20562)
 
 ### Front-End-Challenges
 
