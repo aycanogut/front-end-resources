@@ -780,6 +780,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [free-for.dev](https://free-for.dev/#/)
 - [awesome-resources](https://github.com/sindresorhus/awesome)
 - [Today I Learned by jbranchaud](https://github.com/jbranchaud/til)
+- [Every Programmer Should Know 🤔](https://github.com/mtdvio/every-programmer-should-know)
 
 # Web-3.0
 
