@@ -51,6 +51,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
     - [React-Articles](#react-articles)
     - [React-Frameworks](#react-frameworks)
     - [React-Hooks](#react-hooks)
+    - [React-State-Management](#react-state-management)
     - [React-Tools](#react-tools)
 - [TypeScript](#typescript)
     - [TypeScript-Articles](#typescript-articles)
@@ -432,6 +433,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [esbuild](https://esbuild.github.io/)
 - [Grunt](https://gruntjs.com/)
 - [Babel](https://babeljs.io/)
+-
 
 ### JavaScript-Websites
 
@@ -480,6 +482,14 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [react-use](https://github.com/streamich/react-use)
 - [React Hooks Cheatsheet](https://react-hooks-cheatsheet.com/)
 - [React Hooks Simplified](https://courses.webdevsimplified.com/react-hooks-simplified)
+
+### React-State-Management
+
+- [Zustand](https://zustand-demo.pmnd.rs/)
+- [Jotai](https://jotai.org/)
+- [Redux](https://redux.js.org/)
+- [Recoil](https://recoiljs.org/)
+- [Easy Peasy](https://easy-peasy.vercel.app/)
 
 ### React-Tools
 
@@ -595,9 +605,12 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 
 ### Documentations
 
+- [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 - [React Docs (beta)](https://beta.reactjs.org/)
 - [DevDocs](https://devdocs.io/)
 - [sass-lang](https://sass-lang.com)
+- [TypeScript Documentation](https://www.typescriptlang.org/docs/)
+-
 
 ### Interactive-Games
 
