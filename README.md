@@ -77,11 +77,6 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
     - [Online-Curriculums](#online-curriculums)
     - [Youtube-Channels](#youtube-channels)
     - [Mixed-Content](#mixed-content)
-- [Web-3.0](#web-30)
-    - [Articles](#articles)
-    - [Technologies](#technologies)
-    - [Videos](#videos)
-    - [Youtube Channels](#youtube-channels-1)
 
 <hr />
 
@@ -803,25 +798,3 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [Today I Learned by jbranchaud](https://github.com/jbranchaud/til)
 - [Every Programmer Should Know 🤔](https://github.com/mtdvio/every-programmer-should-know)
 - [Visual Studio Code Cheat Sheet](https://www.vscheatsheet.com/)
-
-# Web-3.0
-
-### Articles
-
-- [Why does Web 3.0 Exist? - Web3 Oversimplified](https://blog.heyonuoha.live/why-does-web-30-exist-web3-oversimplified)
-- [Web 3.0: A Developer Roadmap, Guide, and Resources to Get Started](https://blog.idrisolubisi.com/web-3-a-developer-roadmap-and-resources-to-get-started)
-
-### Technologies
-
-- [Solidity](https://docs.soliditylang.org/en/v0.8.10/#)
-
-### Videos
-
-- [Is Web3 all Hype? Top 10 Web 3.0 Questions & Answers by Fireship](https://www.youtube.com/watch?v=wHTcrmhskto&t=2s)
-
-### Youtube Channels
-
-- [Dapp University](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ)
-- [Web3 Foundation](https://www.youtube.com/channel/UClnw_bcNg4CAzF772qEtq4g)
-- [Moralis Web3](https://www.youtube.com/channel/UCgWS9Q3P5AxCWyQLT2kQhBw)
-- [EatTheBlocks](https://www.youtube.com/c/EatTheBlocks/videos)
