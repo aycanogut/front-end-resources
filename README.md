@@ -330,6 +330,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/)
 - [Front-end may soon need new sub-disciplines](https://medium.com/@muratcorlu/front-end-may-soon-need-new-sub-disciplines-60a4cde20562)
 - [Learning to Code: How to Think Like a Programmer - Zapier](https://zapier.com/blog/think-like-a-programmer/)
+- [How to write maintainable JavaScript code in 2023 — Web or Node.js](https://blog.devgenius.io/how-to-write-maintainable-javascript-code-in-2023-web-or-node-js-d66d8baead67)
 
 ### Front-End-Challenges
 
