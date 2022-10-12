@@ -528,6 +528,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [Creating a TypeScript React Application with Vite](https://developer.okta.com/blog/2022/03/14/react-vite-number-converter)
 - [Creating Custom Types in Typescript](https://fjolt.com/article/typescript-creating-custom-types)
 - [React Event Handlers with TypeScript](https://www.carlrippon.com/React-event-handlers-with-typescript/)
+- [With 30+ Articles, You Will Not Be Confused When Learning TypeScript](https://medium.com/frontend-canteen/with-these-articles-you-will-not-be-confused-when-learning-typescript-d96a5c99e229)
 
 ### TypeScript-Courses
 
