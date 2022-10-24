@@ -342,8 +342,8 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 
 ### Front-End-Websites
 
+- [Patterns](https://web.dev/patterns/) - A collection of code snippets to help you optimize your web projects.
 - [The Valley of Code](https://thevalleyofcode.com/)
-
 - [This vs That](https://thisthat.dev/)
 - [101 DevTools Tips](https://devtoolstips.org/)
 - [Front End Web Development Resources by Ritik Patni](https://github.com/RitikPatni/Front-End-Web-Development-Resources)
