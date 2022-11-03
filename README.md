@@ -100,7 +100,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 
 ### Design-Books
 
--[Atomic Design](https://www.softouch.on.ca/kb/data/Atomic%20Design.pdf)
+- [Atomic Design](https://www.softouch.on.ca/kb/data/Atomic%20Design.pdf)
 
 ### Colors
 
