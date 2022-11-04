@@ -35,6 +35,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [Front-End-Resources](#front-end-resources)
     - [Front-End-Articles](#front-end-articles)
     - [Front-End-Challenges](#front-end-challenges)
+    - [Front-end-Surveys](#front-end-surveys)
     - [Front-End-Websites](#front-end-websites)
 - [Git&Github](#gitgithub)
     - [Git-Courses](#git-courses)
@@ -339,6 +340,12 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [Ace FrontEnd](https://www.acefrontend.com/)
 - [codewell](https://www.codewell.cc)
 - [devChallenges](https://devchallenges.io/)
+
+### Front-end-Surveys
+
+- [State of Frontend 2022](https://tsh.io/State-of-Frontend-2022.pdf)
+- [State of JavaScript](https://stateofjs.com/en-us/)
+- [State of CSS](https://stateofcss.com/en-us/)
 
 ### Front-End-Websites
 
