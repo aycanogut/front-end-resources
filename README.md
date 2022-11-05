@@ -564,6 +564,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [HackerEarth Codemonk](https://www.hackerearth.com/practice/codemonk/)
 - [LeetCode](https://leetcode.com/)
 - [edabit](https://edabit.com/)
+- [NeetCode.io](https://neetcode.io/)
 
 ### Blogs
 
