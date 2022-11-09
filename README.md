@@ -4,6 +4,10 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 
 - [Introduction](#introduction)
 - [API](#api)
+- [Data-Structures-and-Algorithms](#data-structures-and-algorithms)
+    - [Algorithm-Challenges](#algorithm-challenges)
+    - [Algorithm-Books](#algorithm-books)
+    - [Algorithm-Websites](#algorithm-websites)
 - [Design](#design)
     - [Design-Articles](#design-articles)
     - [Design-Books](#design-books)
@@ -61,7 +65,6 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
     - [TypeScript-Challenges](#typescript-challenges)
     - [TypeScript-Tools](#typescript-tools)
 - [Other-Content](#other-content)
-    - [Algorithm-Challenges](#algorithm-challenges)
     - [Blogs](#blogs)
     - [Other-Books](#other-books)
     - [Code-Formatters](#code-formatters)
@@ -89,6 +92,29 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [API list](https://apilist.fun/) - A collective list of APIs
 - [free-open apis](https://blog.hubspot.com/website/free-open-apis) - 30 Free & Open APIs for Marketers & Content Developers
 - [json placeholder](https://jsonplaceholder.typicode.com/) - Free fake API for testing and prototyping
+
+# Data-Structures-and-Algorithms
+
+### Algorithm-Challenges
+
+- [CodeWars](https://www.codewars.com)
+- [HackerRank](https://www.hackerrank.com)
+- [coderbyte](https://coderbyte.com/)
+- [exercism.io](https://exercism.io)
+- [AlgoExpert](https://www.algoexpert.io)
+- [HackerEarth Codemonk](https://www.hackerearth.com/practice/codemonk/)
+- [LeetCode](https://leetcode.com/)
+- [edabit](https://edabit.com/)
+- [NeetCode.io](https://neetcode.io/)
+
+### Algorithm-Books
+
+- [grokking algorithms](https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf)
+- [Think Like A Programmer](http://www.r-5.org/files/books/computers/overviews/patterns/V_Anton_Spraul-Think_Like_a_Programmer-EN.pdf)
+
+### Algorithm-Websites
+
+- [Algorithm Visualiser](https://algorithm-visualizer.org/)
 
 # Design
 
@@ -554,18 +580,6 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 
 # Other-Content
 
-### Algorithm-Challenges
-
-- [CodeWars](https://www.codewars.com)
-- [HackerRank](https://www.hackerrank.com)
-- [coderbyte](https://coderbyte.com/)
-- [exercism.io](https://exercism.io)
-- [AlgoExpert](https://www.algoexpert.io)
-- [HackerEarth Codemonk](https://www.hackerearth.com/practice/codemonk/)
-- [LeetCode](https://leetcode.com/)
-- [edabit](https://edabit.com/)
-- [NeetCode.io](https://neetcode.io/)
-
 ### Blogs
 
 - [Dav Abramov Medium](https://medium.com/@dan_abramov)
@@ -584,7 +598,6 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 ### Other-Books
 
 - [Frontend Masters Books](https://frontendmasters.com/books/)
-- [grokking algorithms](https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf)
 
 ### Code-Formatters
 
