@@ -41,7 +41,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
     - [Front-End-Challenges](#front-end-challenges)
     - [Front-end-Surveys](#front-end-surveys)
     - [Front-End-Websites](#front-end-websites)
-- [Git&Github](#gitgithub)
+- [Git\&Github](#gitgithub)
     - [Git-Courses](#git-courses)
     - [Git-Videos](#git-videos)
     - [Git-Websites](#git-websites)
@@ -68,7 +68,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
     - [Blogs](#blogs)
     - [Other-Books](#other-books)
     - [Code-Formatters](#code-formatters)
-    - [Developer&Productivity-Tools](#developerproductivity-tools)
+    - [Developer\&Productivity-Tools](#developerproductivity-tools)
     - [Discord Communities](#discord-communities)
     - [Documentations](#documentations)
     - [Interactive-Games](#interactive-games)
@@ -208,6 +208,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 
 ### Tools
 
+- [10015](https://10015.io/) - All Online Tools in “One Box”
 - [Contrast](https://usecontrast.com/) - a tool for contrast checker
 
 ### Typography
