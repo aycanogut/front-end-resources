@@ -271,6 +271,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 
 ### CSS-Articles
 
+- [An Interactive Guide to Flexbox by Josh W Comeau](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
 - [Understanding Clip Path in CSS by Ahmad Shadeed](https://ishadeed.com/article/clip-path)
 - [Defensive CSS by Ahmad Shadeed](https://ishadeed.com/article/defensive-css/)
 - [Efficient font stack with Sass by Fabrice Lejeune](https://gist.github.com/fabricelejeune/bcdd3d4725d4e4cea672)
