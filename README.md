@@ -454,6 +454,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 
 ### JavaScript-Courses-Practices
 
+- [That Weird JavaScript Course](https://fireship.io/courses/javascript/)
 - [30 Days of JavaScript](https://javascript30.com/)
 - [Introduction to How to Write an Open Source JavaScript Library - egghead](https://egghead.io/lessons/javascript-introduction-to-how-to-write-an-open-source-javascript-library)
 - [Learn Modern Javascript - scrimba](https://scrimba.com/learn/es6)
