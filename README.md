@@ -3,12 +3,12 @@
 This is a collection of (awe)some resources, mostly focused on front-end web development.
 
 - [Introduction](#introduction)
-- [API](#api)
-- [Data-Structures-and-Algorithms](#data-structures-and-algorithms)
+- [🗄️ API](#️-api)
+- [💡 Data-Structures-and-Algorithms](#-data-structures-and-algorithms)
     - [Algorithm-Challenges](#algorithm-challenges)
     - [Algorithm-Books](#algorithm-books)
     - [Algorithm-Websites](#algorithm-websites)
-- [Design](#design)
+- [🎨 Design](#-design)
     - [Design-Articles](#design-articles)
     - [Design-Books](#design-books)
     - [Colors](#colors)
@@ -21,14 +21,14 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
     - [Tools](#tools)
     - [Typography](#typography)
     - [Design-Websites](#design-websites)
-- [HTML](#html)
+- [#️⃣ HTML](#️⃣-html)
     - [Accessibility](#accessibility)
     - [HTML-Articles](#html-articles)
     - [Checklist](#checklist)
     - [Performance](#performance)
     - [Validation](#validation)
     - [HTML-Websites](#html-websites)
-- [CSS](#css)
+- [🎪 CSS](#-css)
     - [CSS-Articles](#css-articles)
     - [Architectures-Methodologies](#architectures-methodologies)
     - [CSS-in-JS](#css-in-js)
@@ -36,35 +36,35 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
     - [CSS-Generators](#css-generators)
     - [CSS-Videos](#css-videos)
     - [CSS-Websites](#css-websites)
-- [Front-End-Resources](#front-end-resources)
+- [📒 Front-End-Resources](#-front-end-resources)
     - [Front-End-Articles](#front-end-articles)
     - [Front-End-Challenges](#front-end-challenges)
     - [Front-end-Surveys](#front-end-surveys)
     - [Front-End-Websites](#front-end-websites)
-- [Git\&Github](#gitgithub)
+- [🔃 Git\&Github](#-gitgithub)
     - [Git-Courses](#git-courses)
     - [Git-Videos](#git-videos)
     - [Git-Websites](#git-websites)
     - [Git-Tools](#git-tools)
-- [JavaScript](#javascript)
+- [🤖 JavaScript](#-javascript)
     - [JavaScript-Articles](#javascript-articles)
     - [JavaScript-Books](#javascript-books)
     - [JavaScript-Conference-Talks](#javascript-conference-talks)
     - [JavaScript-Courses-Practices](#javascript-courses-practices)
     - [JavaScript-Tools](#javascript-tools)
     - [JavaScript-Websites](#javascript-websites)
-- [React](#react)
+- [⚛️ React](#️-react)
     - [React-Articles](#react-articles)
     - [React-Frameworks](#react-frameworks)
     - [React-Hooks](#react-hooks)
     - [React-State-Management](#react-state-management)
     - [React-Tools](#react-tools)
-- [TypeScript](#typescript)
+- [🦺 TypeScript](#-typescript)
     - [TypeScript-Articles](#typescript-articles)
     - [TypeScript-Courses](#typescript-courses)
     - [TypeScript-Challenges](#typescript-challenges)
     - [TypeScript-Tools](#typescript-tools)
-- [Other-Content](#other-content)
+- [➕ Other-Content](#-other-content)
     - [Blogs](#blogs)
     - [Other-Books](#other-books)
     - [Code-Formatters](#code-formatters)
@@ -84,7 +84,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 
 <hr />
 
-# API
+# 🗄️ API
 
 - [RapidAPI](https://rapidapi.com/collection/list-of-free-apis) - Free Public APIs for Developers
 - [any-api](https://any-api.com/) - Documentation and Test Consoles for Over 1400 Public APIs
@@ -93,7 +93,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [free-open apis](https://blog.hubspot.com/website/free-open-apis) - 30 Free & Open APIs for Marketers & Content Developers
 - [json placeholder](https://jsonplaceholder.typicode.com/) - Free fake API for testing and prototyping
 
-# Data-Structures-and-Algorithms
+# 💡 Data-Structures-and-Algorithms
 
 ### Algorithm-Challenges
 
@@ -116,7 +116,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 
 - [Algorithm Visualiser](https://algorithm-visualizer.org/)
 
-# Design
+# 🎨 Design
 
 ### Design-Articles
 
@@ -228,7 +228,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 
 <hr>
 
-# HTML
+# #️⃣ HTML
 
 ### Accessibility
 
@@ -268,7 +268,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 
 <hr>
 
-# CSS
+# 🎪 CSS
 
 ### CSS-Articles
 
@@ -351,7 +351,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 
 <hr>
 
-# Front-End-Resources
+# 📒 Front-End-Resources
 
 ### Front-End-Articles
 
@@ -388,7 +388,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [200+ Ultimate Resources for Front-End Development in 2021 by Rahul](https://rahulism.hashnode.dev/200-ultimate-resources-for-front-end-development-in-2021)
 - [ZTM Free Developer Resources](https://zerotomastery.io/resources/?utm_source=mailerlite&utm_medium=email&utm_campaign=the_1_question_i_get_asked_by_students&utm_term=2022-06-05)
 
-# Git&Github
+# 🔃 Git&Github
 
 ### Git-Courses
 
@@ -416,7 +416,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 
 <hr>
 
-# JavaScript
+# 🤖 JavaScript
 
 ### JavaScript-Articles
 
@@ -475,7 +475,6 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [esbuild](https://esbuild.github.io/)
 - [Grunt](https://gruntjs.com/)
 - [Babel](https://babeljs.io/)
--
 
 ### JavaScript-Websites
 
@@ -497,7 +496,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 
 <hr>
 
-# React
+# ⚛️ React
 
 ### React-Articles
 
@@ -557,7 +556,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 
 <hr>
 
-# TypeScript
+# 🦺 TypeScript
 
 ### TypeScript-Articles
 
@@ -583,7 +582,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 
 - [TypeScript Error Translator](https://ts-error-translator.vercel.app/)
 
-# Other-Content
+# ➕ Other-Content
 
 ### Blogs
 
