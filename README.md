@@ -156,6 +156,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [Blueprint](https://blueprintjs.com/)
 - [Atlassian](https://atlassian.design/)
 - [chakra](https://chakra-ui.com/)
+- [Design Systems for Developers](https://storybook.js.org/tutorials/design-systems-for-developers/react/en/introduction/)
 
 ### Fonts
 
