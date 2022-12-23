@@ -141,6 +141,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [Flat UI Colors](https://flatuicolors.com/) - color palettes
 - [Coolors Palette Creator](https://coolors.co/006e90-f18f01-adcad6-99c24d-41bbd9) - random color palette generator
 - [mycolor Palette Creator](https://mycolor.space/) - random color palette generator
+- [Branition Colors](https://branition.com/colors) - branding colors collection
 
 ### Design-Systems
 
