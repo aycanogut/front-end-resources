@@ -1,8 +1,8 @@
-# Introduction
+# 👋 Introduction
 
 This is a collection of (awe)some resources, mostly focused on front-end web development.
 
-- [Introduction](#introduction)
+- [👋 Introduction](#-introduction)
 - [🗄️ API](#️-api)
 - [💡 Data-Structures-and-Algorithms](#-data-structures-and-algorithms)
     - [Algorithm-Challenges](#algorithm-challenges)
