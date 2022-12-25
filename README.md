@@ -59,6 +59,7 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
     - [React-Hooks](#react-hooks)
     - [React-State-Management](#react-state-management)
     - [React-Tools](#react-tools)
+    - [React-Videos](#react-videos)
 - [🦺 TypeScript](#-typescript)
     - [TypeScript-Articles](#typescript-articles)
     - [TypeScript-Courses](#typescript-courses)
@@ -553,6 +554,10 @@ This is a collection of (awe)some resources, mostly focused on front-end web dev
 - [React Bits](https://vasanthk.gitbooks.io/react-bits/content/)
 - [React Bootstrap](https://react-bootstrap.github.io/)
 - [kbar - command + k interface](https://github.com/timc1/kbar)
+
+### React-Videos
+
+- [All useEffect Mistakes Every Junior React Developer Makes](https://www.youtube.com/watch?v=QQYeipc_cik&ab_channel=LamaDev)
 
 <hr>
 
