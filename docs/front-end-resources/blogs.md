@@ -3,7 +3,7 @@
 - [Dav Abramov Medium](https://medium.com/@dan_abramov)
 - [Overreacted - Dav Abramov Blog](https://overreacted.io/)
 - [Kent C. Dodds Blog](https://kentcdodds.com/blog)
-- [DEV Community](https://dev.to)
+- [DEV Community](https://dev.to/)
 - [alligator.io](https://alligator.io/)
 - [Flavio Copes](https://flaviocopes.com/)
 - [Una Kravets](https://una.im/)
