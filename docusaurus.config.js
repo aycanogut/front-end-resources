@@ -9,7 +9,7 @@ const config = {
   title: "Frontend Resources",
   tagline: "A useful toolbox for you!",
   // todo deploy and update
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://fe-resources.vercel.app/",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -67,28 +67,64 @@ const config = {
         style: "dark",
         links: [
           {
-            title: "Docs",
+            title: "Resources",
             items: [
               {
-                label: "Tutorial",
-                to: "/docs/intro",
+                label: "API",
+                to: "docs/category/api",
+              },
+              {
+                label: "CSS",
+                to: "/docs/category/css",
+              },
+              {
+                label: "Data Structures and Algorithms",
+                to: "/docs/category/data-structures-and-algorithms",
+              },
+              {
+                label: "Design",
+                to: "/docs/category/design",
+              },
+              {
+                label: "Frontend Resources",
+                to: "/docs/category/frontend-resources",
+              },
+              {
+                label: "Git / Github",
+                to: "/docs/category/git--github",
+              },
+              {
+                label: "HTML",
+                to: "/docs/category/html",
+              },
+              {
+                label: "JavaScript",
+                to: "/docs/category/javascript",
+              },
+              {
+                label: "React",
+                to: "/docs/category/react",
+              },
+              {
+                label: "TypeScript",
+                to: "/docs/category/typescript",
               },
             ],
           },
           {
-            title: "Community",
+            title: "Author",
             items: [
               {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
-              },
-              {
-                label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
+                label: "Github",
+                href: "https://github.com/aycanogut",
               },
               {
                 label: "Twitter",
-                href: "https://twitter.com/docusaurus",
+                href: "https://twitter.com/bleedeleventh",
+              },
+              {
+                label: "LinkedIn",
+                href: "https://linkedin.com/in/aycanogut",
               },
             ],
           },
@@ -97,12 +133,12 @@ const config = {
             items: [
               {
                 label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
+                href: "https://github.com/aycanogut/front-end-resources",
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Frontend Resources, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
