@@ -88,6 +88,11 @@ const config = {
                 label: "Frontend Resources",
                 to: "/docs/category/frontend-resources",
               },
+            ],
+          },
+          {
+            title: "Resources",
+            items: [
               {
                 label: "Git / Github",
                 to: "/docs/category/git--github",
@@ -107,23 +112,6 @@ const config = {
               {
                 label: "TypeScript",
                 to: "/docs/category/typescript",
-              },
-            ],
-          },
-          {
-            title: "Author",
-            items: [
-              {
-                label: "Github",
-                href: "https://github.com/aycanogut",
-              },
-              {
-                label: "Twitter",
-                href: "https://twitter.com/bleedeleventh",
-              },
-              {
-                label: "LinkedIn",
-                href: "https://linkedin.com/in/aycanogut",
               },
             ],
           },
