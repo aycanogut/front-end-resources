@@ -1,0 +1,14 @@
+# Articles
+
+- [How to learn React - The Effective way ](https://dev.to/shaan_alam/how-to-learn-react-the-effective-way-2km7)
+- [5 Packages Every React Developer Must Know](https://javascript.plainenglish.io/5-packages-every-react-developer-must-know-e06bf1b96514)
+- [Ultimate ReactJS Resources 🛠For Web Developers 2021👨‍💻 ](https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c)
+- [React — 5 Things That Might Surprise You](https://medium.com/geekculture/react-5-things-that-might-surprise-you-ddefd9fbac0f)
+- [Implementing Atomic Design in Modern React Development](https://charuka95.medium.com/implementing-atomic-design-in-modern-react-development-d58d743a0f0b)
+- [Some Features Every React Developer Should Know](https://medium.com/nerd-for-tech/some-features-every-react-developer-should-know-f960117464e8)
+- [A Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/#each-render-has-its-own-effects)
+- [Persistent login in React using refresh token rotation](https://blog.logrocket.com/persistent-login-in-react-using-refresh-token-rotation/)
+- [React Authentication & Access Control](https://css-tricks.com/react-authentication-access-control/#:~:text=Your%20React%20app%20requests%20a,needs%20to%20make%20a%20request.)
+- [13 Libraries You Should Know as a React Developer](https://cult.honeypot.io/reads/react-libraries-2022/)
+- [19 GitHub Repositories to Become a React Master ⚛️🧙](https://devdojo.com/madzadev/19-github-repositories-to-become-a-react-master)
+- [Atomic Design and ReactJS](https://danilowoz.com/blog/atomic-design-with-react)

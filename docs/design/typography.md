@@ -1,0 +1,4 @@
+# Typography
+
+- [Typography 101 - Web Design For Beginners by Dev Ed](https://www.youtube.com/watch?v=HnpsOtIcfbo&feature=emb_title) - typography 101 introduction video
+- [The Fastest Google Fonts by CSS Wizardry](https://csswizardry.com/2020/05/the-fastest-google-fonts/) - an article about how to enhance performance with google fonts

@@ -1,0 +1,9 @@
+# Books
+
+- [You Don't Know Javascript by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS)
+- [Functional Light JavaScript by Kyle Simpson](https://github.com/getify/Functional-Light-JS)
+- [Eloquent Javascript by Marijn Haverbeke](https://eloquentjavascript.net/)
+- [JSbooks - The best free JavaScript resources](https://jsbooks.revolunet.com/)
+- [Exploring JS: JavaScript books for programmers](https://exploringjs.com/)
+- [Learning Patterns by Lydia Hallie and Addy Osmani](https://www.patterns.dev/)
+- [JavaScript Allongé: A strong cup of functions, objects, combinators, and decorators](https://leanpub.com/javascriptallongesix/read#leanpub-auto-about-javascript-allong)
