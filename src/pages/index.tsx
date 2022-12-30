@@ -3,8 +3,7 @@ import clsx from "clsx";
 import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
-import HomepageFeatures from "@site/src/components/HomepageFeatures";
-
+import HomepageFeatures from "../components/HomepageFeatures";
 import styles from "./index.module.css";
 
 function HomepageHeader() {
@@ -19,7 +18,7 @@ function HomepageHeader() {
             className='button button--secondary button--lg'
             to='/docs/intro'
           >
-            Go to resources
+            Let's go!
           </Link>
         </div>
       </div>
@@ -29,10 +28,11 @@ function HomepageHeader() {
 
 export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
+
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description='Description will go into a meta tag in <head />'
+      description='Useful resources for lovely developers.'
     >
       <HomepageHeader />
       <main>
