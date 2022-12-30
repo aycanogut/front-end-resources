@@ -8,7 +8,6 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Frontend Resources",
   tagline: "A useful toolbox for you!",
-  // todo deploy and update
   url: "https://fe-resources.vercel.app/",
   baseUrl: "/",
   onBrokenLinks: "throw",
