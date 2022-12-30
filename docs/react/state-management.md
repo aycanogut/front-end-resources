@@ -1,0 +1,7 @@
+# State Management
+
+- [Zustand](https://zustand-demo.pmnd.rs/)
+- [Jotai](https://jotai.org/)
+- [Redux](https://redux.js.org/)
+- [Recoil](https://recoiljs.org/)
+- [Easy Peasy](https://easy-peasy.vercel.app/)

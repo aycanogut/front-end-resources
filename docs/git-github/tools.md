@@ -1,0 +1,4 @@
+# Tools
+
+- [Conventional Commits](https://www.conventionalcommits.org/)
+- [lazygit](https://github.com/jesseduffield/lazygit) simple terminal UI for git commands

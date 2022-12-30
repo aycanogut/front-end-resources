@@ -1,0 +1,9 @@
+# Fonts
+
+- [Google Fonts](https://fonts.google.com/) - huge font library
+- [Font Flipper](https://fontflipper.com/upload) - random font generator
+- [Font Squirrel](https://www.fontsquirrel.com/tools/webfont-generator) - webfont generator
+- [Online Font Converter](https://onlinefontconverter.com/) - create @font-face rules and convert fonts online
+- [fonts in the wild](https://www.fontsinthewild.com/) - font library
+- [webfontloader](https://github.com/typekit/webfontloader) - tool for controling @font-face rules
+- [BEfonts](https://befonts.com/) - free fonts for designers

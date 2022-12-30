@@ -1,0 +1,14 @@
+# Blogs
+
+- [Dav Abramov Medium](https://medium.com/@dan_abramov)
+- [Overreacted - Dav Abramov Blog](https://overreacted.io/)
+- [Kent C. Dodds Blog](https://kentcdodds.com/blog)
+- [DEV Community](dev.to)
+- [alligator.io](https://alligator.io/)
+- [Flavio Copes](https://flaviocopes.com/)
+- [Una Kravets](https://una.im/)
+- [Silvestar Bistrović](https://www.silvestar.codes/articles/)
+- [Zell Liew](https://zellwk.com/blog/)
+- [Kyle Cook (Web Dev Simplified)](https://blog.webdevsimplified.com/)
+- [Lydia Hallie](https://www.lydiahallie.io/)
+- [Lee Rob](https://leerob.io/blog)
