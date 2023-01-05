@@ -27,8 +27,6 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          editUrl:
-            "https://github.com/aycanogut/front-end-resources/blob/main/docs/intro.md",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
