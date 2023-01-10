@@ -1,4 +1,4 @@
-# Mixed-Content
+# Mixed Content
 
 - [web.dev](https://web.dev/)
 - [Coder Survival Guide](https://raindrop.io/laurent-devernay/coder-survival-guide-7258291)
