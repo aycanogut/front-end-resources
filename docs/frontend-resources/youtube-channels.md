@@ -26,3 +26,8 @@
 - [CS50](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
 - [JSConf](https://www.youtube.com/c/JSConfEU)
 - [uidotdev](https://www.youtube.com/c/uidotdev)
+- [Theo - t3․gg](https://www.youtube.com/@t3dotgg)
+- [ThePrimeTime](https://www.youtube.com/@ThePrimeTimeagen)
+- [Hyperplexed](https://www.youtube.com/@Hyperplexed)
+- [Lee Robinson](https://www.youtube.com/@leerob)
+- [Honeypot](https://www.youtube.com/@Honeypotio)
