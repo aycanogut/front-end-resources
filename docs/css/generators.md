@@ -18,3 +18,4 @@
 - [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/) - border-radius generator
 - [Smooth shadow gradient](https://shadows.brumm.af/) - box-shadow gradient
 - [CSS Scroll Shadows!](https://bit.ly/3JxejGt)
+- [haikei](https://haikei.app/) - generate unique SVG design assets
