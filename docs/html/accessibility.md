@@ -7,3 +7,4 @@
 - [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/)
 - [WebAIM](https://webaim.org/)
 - [Accessibility Developer Guide](https://www.accessibility-developer-guide.com/)
+- [The A11Y Project](https://www.a11yproject.com/)
