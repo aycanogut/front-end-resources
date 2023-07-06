@@ -6,5 +6,5 @@
 - [API list](https://apilist.fun/) - A collective list of APIs
 - [free-open apis](https://blog.hubspot.com/website/free-open-apis) - 30 Free & Open APIs for Marketers & Content Developers
 - [json placeholder](https://jsonplaceholder.typicode.com/) - Free fake API for testing and prototyping
-- [DummyJSON](https://dummyjson.com/) - Get dummy/fake JSON data to use as placeholder in development or in prototype testing.
+- [DummyJSON](https://dummyjson.com/) - Get dummy/fake JSON data to use as placeholder in development or in prototype testing
 - [WeatherAPI](https://www.weatherapi.com/) - JSON and XML Weather API and Geolocation Developer API
