@@ -9,3 +9,4 @@
 - [How to write maintainable JavaScript code in 2023 — Web or Node.js](https://blog.devgenius.io/how-to-write-maintainable-javascript-code-in-2023-web-or-node-js-d66d8baead67)
 - [My Challenge to the Web Performance Community](https://philipwalton.com/articles/my-challenge-to-the-web-performance-community/)
 - [10 Web Development Trends in 2023](https://www.robinwieruch.de/web-development-trends/)
+- [Useful DevTools Tips and Tricks](https://www.smashingmagazine.com/2023/06/popular-devtools-tips/)
