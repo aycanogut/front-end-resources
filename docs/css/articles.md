@@ -14,3 +14,4 @@
 - [The Large, Small, and Dynamic Viewports](https://www.bram.us/2021/07/08/the-large-small-and-dynamic-viewports/?utm_source=stefanjudis&utm_medium=email)
 - [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
 - [Learn CSS in Detail](https://www.scaler.com/topics/css/)
+- [New Viewport Units by Ahmad Shadeed](https://ishadeed.com/article/new-viewport-units/)
