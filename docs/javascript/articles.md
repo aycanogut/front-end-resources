@@ -15,3 +15,4 @@
 - [How much JavaScript should I learn? 🤔](https://medium.com/@shadmansaalim321/how-much-javascript-should-you-learn-8c9178ef6f5)
 - [Statements Vs. Expressions](https://www.joshwcomeau.com/javascript/statements-vs-expressions/)
 - [165+ JavaScript terms you need to know](https://opensource.com/article/22/9/javascript-glossary)
+- [Debounce vs Throttle: Definitive Visual Guide](https://redd.one/blog/debounce-vs-throttle)
