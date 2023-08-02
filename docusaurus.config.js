@@ -27,6 +27,7 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
+          routeBasePath: '/',
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -66,23 +67,23 @@ const config = {
             items: [
               {
                 label: "API",
-                to: "docs/category/api",
+                to: "category/api",
               },
               {
                 label: "CSS",
-                to: "/docs/category/css",
+                to: "category/css",
               },
               {
                 label: "Data Structures and Algorithms",
-                to: "/docs/category/data-structures-and-algorithms",
+                to: "category/data-structures-and-algorithms",
               },
               {
                 label: "Design",
-                to: "/docs/category/design",
+                to: "category/design",
               },
               {
                 label: "Frontend Resources",
-                to: "/docs/category/frontend-resources",
+                to: "category/frontend-resources",
               },
             ],
           },
@@ -91,23 +92,23 @@ const config = {
             items: [
               {
                 label: "Git / Github",
-                to: "/docs/category/git--github",
+                to: "/category/git--github",
               },
               {
                 label: "HTML",
-                to: "/docs/category/html",
+                to: "/category/html",
               },
               {
                 label: "JavaScript",
-                to: "/docs/category/javascript",
+                to: "/category/javascript",
               },
               {
                 label: "React",
-                to: "/docs/category/react",
+                to: "/category/react",
               },
               {
                 label: "TypeScript",
-                to: "/docs/category/typescript",
+                to: "/category/typescript",
               },
             ],
           },
@@ -127,6 +128,7 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      defaultMode: 'dark',
     }),
 };
 
