@@ -1,7 +1,3 @@
----
-slug: /docs/css/articles
----
-
 # Articles
 
 - [An Interactive Guide to Flexbox by Josh W Comeau](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)

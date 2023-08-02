@@ -1,7 +1,3 @@
----
-slug: /docs/api/api
----
-
 # Public API's
 
 - [RapidAPI](https://rapidapi.com/collection/list-of-free-apis) - Free Public APIs for Developers
