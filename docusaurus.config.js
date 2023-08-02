@@ -27,6 +27,7 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
+          routeBasePath: '/',
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -127,6 +128,7 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      defaultMode: 'dark',
     }),
 };
 
