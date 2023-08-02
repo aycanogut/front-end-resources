@@ -1,3 +1,7 @@
+---
+slug: /docs/css/architectures-methodologies
+---
+
 # Architectures / Methodologies
 
 - [Sass Guidelines by Kiltty Giraudel](https://sass-guidelin.es/)

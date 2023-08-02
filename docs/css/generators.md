@@ -1,3 +1,7 @@
+---
+slug: /docs/css/generators
+---
+
 # Generators
 
 - [CSS-GEN box-shadow Generator](https://generate-css.com/box-shadow-generator/)

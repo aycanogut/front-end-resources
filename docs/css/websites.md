@@ -1,3 +1,7 @@
+---
+slug: /docs/css/websites
+---
+
 # Websites
 
 - [css-tricks](https://css-tricks.com/)

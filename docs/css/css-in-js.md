@@ -1,3 +1,7 @@
+---
+slug: /docs/css/css-in-js
+---
+
 # CSS in JS
 
 - [Styled Components](https://styled-components.com)
