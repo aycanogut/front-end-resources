@@ -10,3 +10,4 @@
 - [My Challenge to the Web Performance Community](https://philipwalton.com/articles/my-challenge-to-the-web-performance-community/)
 - [10 Web Development Trends in 2023](https://www.robinwieruch.de/web-development-trends/)
 - [Useful DevTools Tips and Tricks](https://www.smashingmagazine.com/2023/06/popular-devtools-tips/)
+- [Crafting the Next.js Website](https://rauno.me/craft/nextjs)
