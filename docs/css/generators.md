@@ -19,3 +19,5 @@
 - [Smooth shadow gradient](https://shadows.brumm.af/) - box-shadow gradient
 - [CSS Scroll Shadows!](https://bit.ly/3JxejGt)
 - [haikei](https://haikei.app/) - generate unique SVG design assets
+- [Tailwind CSS Color Generator](https://uicolors.app/create) - color palette generator
+- [fffuel generators](https://fffuel.co/) - collection of color tools and free SVG generators for gradients, patterns, textures, shapes & backgrounds
