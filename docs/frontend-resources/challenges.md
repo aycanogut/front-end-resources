@@ -6,3 +6,4 @@
 - [codewell](https://www.codewell.cc)
 - [devChallenges](https://devchallenges.io/)
 - [iCodeThis](https://icodethis.com/)
+- [kirupa.com coding exercises](https://www.kirupa.com/codingexercises/index.htm)
