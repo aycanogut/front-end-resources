@@ -16,4 +16,4 @@
 - [Learn CSS in Detail](https://www.scaler.com/topics/css/)
 - [New Viewport Units by Ahmad Shadeed](https://ishadeed.com/article/new-viewport-units/)
 - [CSS Selectors: A Visual Guide](https://fffuel.co/css-selectors/#top-bar)
-- 
+- [CSS Variables 101](https://ishadeed.com/article/css-vars-101/)
