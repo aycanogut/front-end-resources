@@ -7,3 +7,4 @@
 - [Creating Custom Types in Typescript](https://fjolt.com/article/typescript-creating-custom-types)
 - [React Event Handlers with TypeScript](https://www.carlrippon.com/React-event-handlers-with-typescript/)
 - [With 30+ Articles, You Will Not Be Confused When Learning TypeScript](https://medium.com/frontend-canteen/with-these-articles-you-will-not-be-confused-when-learning-typescript-d96a5c99e229)
+- [How To Learn TypeScript In 2023](https://www.totaltypescript.com/learn-typescript)

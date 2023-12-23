@@ -21,3 +21,4 @@
 - [haikei](https://haikei.app/) - generate unique SVG design assets
 - [Tailwind CSS Color Generator](https://uicolors.app/create) - color palette generator
 - [fffuel generators](https://fffuel.co/) - collection of color tools and free SVG generators for gradients, patterns, textures, shapes & backgrounds
+- [Scrollbar.app](https://scrollbar.app/) - CSS Scrollbar generator

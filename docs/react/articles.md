@@ -13,3 +13,4 @@
 - [19 GitHub Repositories to Become a React Master ⚛️🧙](https://devdojo.com/madzadev/19-github-repositories-to-become-a-react-master)
 - [Atomic Design and ReactJS](https://danilowoz.com/blog/atomic-design-with-react)
 - [React Libraries for 2023](https://www.robinwieruch.de/react-libraries/)
+- [A Chain Reaction](https://overreacted.io/a-chain-reaction/)
