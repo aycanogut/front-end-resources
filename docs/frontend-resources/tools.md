@@ -16,6 +16,7 @@
 - [GitKarken](https://www.gitkraken.com/) - Git GUI & Git CLI with a lot of features.
 - [DevBook](https://usedevbook.com/) - Search through the DevDocs and StackOverflow without switching to your browser.
 - [daily.dev](https://daily.dev/) - Great tool for finding hottest trends and popular articles.
+- [10015.io](https://www.10015.io/) - All Online Tools in “One Box”
 
 ## Code Formatters
 
