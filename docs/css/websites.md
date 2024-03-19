@@ -12,3 +12,4 @@
 - [Sass cheatsheet](https://devhints.io/sass)
 - [Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.](https://github.com/Famolus/awesome-sass)
 - [What does 100% mean in CSS?](https://wattenberger.com/blog/css-percents)
+- [Browser Default Styles](https://browserdefaultstyles.com/)
