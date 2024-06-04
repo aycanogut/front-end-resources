@@ -14,3 +14,4 @@
 - [Icon Finder](https://www.iconfinder.com/) - icon library and illustrations
 - [700+ CSS Icons](https://css.gg/) - open-source svg and figma ui icons
 - [Streamline](https://streamlinehq.com/) - icons and emojis
+- [svgl](https://svgl.app/) - a beautiful library with svg logos
