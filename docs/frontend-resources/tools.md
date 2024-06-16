@@ -18,6 +18,7 @@
 - [daily.dev](https://daily.dev/) - Great tool for finding hottest trends and popular articles.
 - [10015.io](https://www.10015.io/) - All Online Tools in “One Box”
 - [IT - TOOLS](https://it-tools.tech/) - Handy tools for developers.
+- [Mockium](https://softwium.com/mockium/) - Dummy/Fake data generator.
 
 ## Code Formatters
 
