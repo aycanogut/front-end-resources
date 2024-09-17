@@ -14,3 +14,4 @@
 - [CSS Animation Weekly](http://weekly.cssanimation.rocks/)
 - [Dev Tips](https://umaar.com/dev-tips/)
 - [cssweekly](https://css-weekly.com/)
+- [Bytes](https://bytes.dev/)
