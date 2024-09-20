@@ -32,6 +32,7 @@
 - [Regex Crossword](https://regexcrossword.com/)
 - [Regex101](https://regex101.com/)
 - [RegexOne](https://regexone.com/)
+- [Cyrilex](https://extendsclass.com/regex-tester.html)
 - [CodinGame](https://www.codingame.com/start)
 - [OpenVim](https://www.openvim.com/)
 - [Jamstack Attack](https://jamstack-attack.herokuapp.com/)

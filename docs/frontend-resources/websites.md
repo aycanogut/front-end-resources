@@ -10,4 +10,5 @@
 - [ZTM Free Developer Resources](https://zerotomastery.io/resources/?utm_source=mailerlite&utm_medium=email&utm_campaign=the_1_question_i_get_asked_by_students&utm_term=2022-06-05)
 - [The Twelwe-Factor App](https://12factor.net/)
 - [Web Interface Guidelines](https://interfaces.rauno.me/)
+- [Frontend developer tools all-in-one place](https://devtooly.com/)
 - [SEE+SAW](https://www.seesaw.website/)

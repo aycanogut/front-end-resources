@@ -11,3 +11,4 @@
 - [Front End Interview Handbook by Yangshun Tay](https://frontendinterviewhandbook.com/)
 - [JavaScript Code Challenges](https://github.com/sadanandpai/javascript-code-challenges)
 - [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
+- [Interview Questions for Developers](https://www.itflashcards.com/)

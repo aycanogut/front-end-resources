@@ -12,3 +12,4 @@
 - [Kyle Cook (Web Dev Simplified)](https://blog.webdevsimplified.com/)
 - [Lydia Hallie](https://www.lydiahallie.io/)
 - [Lee Rob](https://leerob.io/blog)
+- [Josh Comeau](https://www.joshwcomeau.com/)
