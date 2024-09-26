@@ -13,3 +13,5 @@
 - [Atlassian](https://atlassian.design/)
 - [chakra](https://chakra-ui.com/)
 - [Design Systems for Developers](https://storybook.js.org/tutorials/design-systems-for-developers/react/en/introduction/)
+- [Material UI](https://material-ui.com/)
+- [Mantine](https://mantine.dev/)
