@@ -127,7 +127,7 @@ You can find a list of all the resources in [here](https://fe-resources.vercel.a
 
 ## Website
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+This website is built using [Fumadocs](https://fumadocs.vercel.app/), a documentation framework.
 
 ### Installation
 

@@ -1,6 +1,0 @@
-# UI Librarys
-
-- [Acernity UI](https://ui.aceternity.com/)
-- [Magic UI](https://magicui.design/)
-- [Radix Primitives](https://www.radix-ui.com/primitives)
-- [shadcn](https://ui.shadcn.com/)

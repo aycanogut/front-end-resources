@@ -1,8 +1,0 @@
-# Tools
-
-- [Can I use?](https://caniuse.com/)
-- [Can Include](https://caninclude.glitch.me/)
-- [Browser Default Styles](https://browserdefaultstyles.com/)
-- [W3C Markup Validation Service](https://validator.w3.org/)
-- [What the tag ?!](https://whatthetag.com/#/)
-- [WhoCanUse](https://www.whocanuse.com/)

@@ -1,9 +1,0 @@
-# Discord Communities
-
-- [Frontendship](https://discord.gg/frontendship)
-- [Frontend Developers](https://discord.com/invite/aBx8dcu)
-- [Kevin Powell - Community](https://discord.com/invite/9Rc6WNhNGJ)
-- [KCD - Kent C. Dodds Community](https://discord.com/invite/euBTshKEnm)
-- [Reactiflux](https://discord.com/invite/reactiflux)
-- [Bruno Simon Community (Three.js)](https://discord.gg/F4WxPafp)
-- [Next.js Community](https://discord.gg/nextjs)

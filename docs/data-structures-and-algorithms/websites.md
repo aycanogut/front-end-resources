@@ -1,3 +1,0 @@
-# Websites
-
-- [Algorithm Visualiser](https://algorithm-visualizer.org/)
