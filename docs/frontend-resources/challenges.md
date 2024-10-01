@@ -1,9 +1,0 @@
-# Frontend Challenges
-
-- [Frontend Mentor.io](https://www.frontendmentor.io)
-- [DevProjects by codementor.io](https://www.codementor.io/projects)
-- [Ace FrontEnd](https://www.acefrontend.com/)
-- [codewell](https://www.codewell.cc)
-- [devChallenges](https://devchallenges.io/)
-- [iCodeThis](https://icodethis.com/)
-- [kirupa.com coding exercises](https://www.kirupa.com/codingexercises/index.htm)

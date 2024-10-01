@@ -1,7 +1,0 @@
-# Documentations
-
-- [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
-- [React Docs](https://react.dev/)
-- [DevDocs](https://devdocs.io/)
-- [sass-lang](https://sass-lang.com)
-- [TypeScript Documentation](https://www.typescriptlang.org/docs/)
