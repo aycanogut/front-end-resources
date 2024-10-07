@@ -2,11 +2,11 @@ import { type HomeLayoutProps } from 'fumadocs-ui/home-layout';
 
 export const baseOptions: HomeLayoutProps = {
   nav: {
-    title: 'My App',
+    title: 'Frontend Resources',
   },
   links: [
     {
-      text: 'Respources',
+      text: 'Resources',
       url: '/resources',
       active: 'nested-url',
     },
