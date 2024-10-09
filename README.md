@@ -1,6 +1,6 @@
 # 👋 Introduction
 
-This project intend to collect every single resource about web development (mostly front-end) and design in one place.
+This project intends to collect all the resources related to web development (mostly front-end) and design in one place.
 
 ## Website
 
